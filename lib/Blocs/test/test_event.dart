@@ -1,0 +1,20 @@
+part of 'test_bloc.dart';
+
+abstract class TestEvent extends Equatable {
+  const TestEvent();
+
+  @override
+  List<Object> get props => [];
+}
+
+
+class Increment extends TestEvent{
+  final int number;
+
+  Increment({@required this.number});
+
+  @override
+  String toString() {
+    return 'Increment to $number';
+  }
+}

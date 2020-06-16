@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845790965454",
+    "firebase_url": "https://app-comfacundi.firebaseio.com",
+    "project_id": "app-comfacundi",
+    "storage_bucket": "app-comfacundi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845790965454:android:d6d4e435d523c30c57ea9f",
+        "android_client_info": {
+          "package_name": "com.example.comfacundi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845790965454-sff4po603odn4uirfhai269cuhs9qv47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfe_GlD741PMk-FN59r7ozhouMbCpltM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845790965454-sff4po603odn4uirfhai269cuhs9qv47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
