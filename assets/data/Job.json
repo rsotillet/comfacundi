@@ -1,0 +1,28 @@
+{
+    "vacants": {
+        "title": "VISÍTANOS EN NUESTROS CENTROS DE EMPLEO",
+        "detail": "Brigada móvil en todo el departamento de Cundinamarca según demanda.",
+        "url": "https://www.buscadordeempleo.gov.co/",
+        "child": [
+            {
+                "title": "• Bogotá:",
+                "direction": "Calle 37 #28 – 33 Barrio La Soledad, localidad de Teusaquillo",
+                "phone": "301 400 4961 - 310 226 6934 - 322 429 5523 - 322 429 5529"
+            },
+            {
+                "title": "• Puerto Salgar:",
+                "phone": "322 613 6707 - 301 400 4961 - 310 226 6934",
+                "direction": "Cundinamarca: Calle 14 #11 – 27"
+            },
+            {
+                "title": "• Paratebueno, Cundinamarca:",
+                "phone": "312 5797636 301 400 4961 - 310 226 6934",
+                "direction": "Calle 3 #8 – 60"
+            }
+        ]
+    },
+    "rute": {
+        "detail": "SERVICIO DE EMPLEO\n\nLa Caja de Compensación Familiar de Cundinamarca (COMFACUNDI), atendiendo a la Convocatoria del Gobierno Nacional y el Ministerio de Trabajo, hace parte del Servicio Público de Empleo con la Agencia de Gestión y Colocación de Empleo, que busca brindar la posibilidad a personas de encontrar un empleo acorde a sus capacidades y experiencia, brindando a las empresas la posibilidad de contratar a las personas que cumplan con sus necesidades.",
+        "routeDetail": "•Registro o actualización de hoja de vida en la plataforma de internet del Servicio Público de Empleo. \n\n•Entrevista de orientación laboral con uno de nuestros psicólogos para la evaluación de perfil, habilidades y competencias.\n\n•Cursos o capacitaciones para el fortalecimiento de habilidades laborales, procesos de selección y hoja de vida.\n\n•Intermediación laboral para la postulación y remisión a diferentes vacantes de trabajo solicitadas por empresas debidamente registradas y con condiciones dignas para los trabajadores."
+    }
+}

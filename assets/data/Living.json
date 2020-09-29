@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "title": "Proyectos",
+            "children": [
+                {
+                    "title": "¡Un lugar ideal para VIVIR!",
+                    "subtitle": "FONTIBÓN LARES II",
+                    "description": "Proyecto de vivienda de interés social",
+                    "direction": "Bogotá - CARRERA 113 #19A 11",
+                    "price": "Desde $141.988.000",
+                    "url": "https://www.comfacundi.com.co/vivienda/#proyectomirador",
+                    "txtButton": "Más Información",
+                    "img": "assets/svg/edificios.svg"
+                }
+            ]
+        }
+    ]
+}

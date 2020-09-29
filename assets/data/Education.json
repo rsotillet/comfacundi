@@ -1,0 +1,219 @@
+{
+    "items": [
+        {
+            "title": "Colegios",
+            "subtitle": "¡NUESTRA PRIORIDAD LA EDUCUCIÓN DE NUESTROS NIÑOS!",
+            "icon": "assets/svg/lapiz.svg",
+            "tag": "lapiz",
+            "children": [
+                {
+                    "title": "Colegios Propios",
+                    "child": [
+                        {
+                            "title": "Colegios Propios",
+                            "item": [
+                                {
+                                    "title": "¡NUESTRO LICEO!",
+                                    "subtitle": "",
+                                    "detail": "",
+                                    "url": "https://www.comfacundi.com.co/liceocomfacundi/",
+                                    "extraimg": "",
+                                    "imgs": [
+                                        {
+                                            "picture": "escudo_liceo_comfacundi_BLANCO.png",
+                                            "title": "Subsidios para tarifas A y B de 50% y 30% Preescolar Básica Primaria Básica Secundaria Media",
+                                            "detail": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Convenios Redco",
+                    "child": [
+                        {
+                            "title": "Convenios Redco",
+                            "item": [
+                                {
+                                    "title": "¡COLEGIOS EN CONVENIO!",
+                                    "subtitle": "Red de colegios en convenio con COMFACUNDI",
+                                    "detail": "",
+                                    "url": "-",
+                                    "extraimg": "redco.png",
+                                    "imgs": [
+                                        {
+                                            "picture": "ColCanapro.jpg",
+                                            "title": "Colegio Canapro",
+                                            "detail": "5% de descuento"
+                                        },
+                                        {
+                                            "picture": "IVillaSanD.jpg",
+                                            "title": "Instituto Villa San Diego",
+                                            "detail": "20% de descuento en matrículas y pensiones"
+                                        },
+                                        {
+                                            "picture": "CMAuxiliadora.jpg",
+                                            "title": "Colegio María Auxiliadora",
+                                            "detail": "hasta el 60% de descuento"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Educación superior",
+            "subtitle": "¡PROFESIONALES PARA EL FUTURO!",
+            "icon": "assets/svg/birr.svg",
+            "tag": "birr",
+            "children": [
+                {
+                    "title": "INSTITUCIONES PROPIAS",
+                    "child": [
+                        {
+                            "title": "INSTITUCIONES PROPIAS",
+                            "item": [
+                                {
+                                    "title": "¡INSTITUTO TÉCNICO COMFACUNDI!",
+                                    "subtitle": "",
+                                    "detail": "",
+                                    "url": "https://www.comfacundi.com.co/institutocomfacundi/",
+                                    "extraimg": "",
+                                    "imgs": [
+                                        {
+                                            "picture": "logo_insituto.png",
+                                            "title": "Subsidios para tarifas A y B de 50% y 30%\nT.L. Auxiliar Administrativo\nT.L. del Talento Humano\nT.L. Auxiliar Contables y Financiero",
+                                            "detail": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "CONVENIOS REDCO",
+                    "child": [
+                        {
+                            "title": "PORTAFOLIO DE SERVICIOS",
+                            "item": [
+                                {
+                                    "title": "¡PORTAFOLIO DE SERVICIOS!",
+                                    "subtitle": "",
+                                    "detail": "Educación Comfacundi es una dependencia creada con el objetivo de dar respuesta a las necesidades de educación, capacitación y formación que exige el mercado laboral. Trabajamos en pro de los trabajadores, afiliados, beneficiarios, colaboradores y público en general para que accedana una educación de calidad con beneficios de descuento y/o subsidios através de tarifas diferenciales.",
+                                    "url": "https://www.comfacundi.com.co/registro-tu-credito-educativo/",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        },
+                        {
+                            "title": "CAPACITACIONES",
+                            "item": [
+                                {
+                                    "title": "¡NUESTRAS CAPACITACIONES!",
+                                    "subtitle": "QUE OFRECEMOS",
+                                    "detail": "Capacitación cimientos del bien ser: Formación práctica experiencial desarrollada en el modelo de cimientos del Bien Ser para sus colaboradores y equipos de trabajo. Competencias Blandas.\n\nCapacitación empresarial: Capacitación en temáticas que desarrollen la productividad y la innovación en su organización. Competencias transversales. \n\nCursos para todas las edades: Cursos de alta calidad en gastronomía, pintura al óleo, belleza integral corte y confección, para aprovechar el tiempo libre e impulsar tu idea de negocio.",
+                                    "url": "https://www.comfacundi.com.co/registro-tu-credito-educativo/",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Educación continua",
+            "subtitle": "¡LA PREPARACIÓN CONTINÚA CLAVE DEL ÉXITO!",
+            "icon": "assets/svg/libro_pc.svg",
+            "tag": "libro_pc",
+            "children": [
+                {
+                    "title": "CAPACITACIÓN EMPRESARIAL",
+                    "child": [
+                        {
+                            "title": "COMPETENCIAS BLANDAS Y CLAVES",
+                            "item": [
+                                {
+                                    "title": "¡COMPETENCIAS BLANDAS Y CLAVES!",
+                                    "subtitle": "",
+                                    "detail": "Certificados dados por el  INSTITUTO DE FORMACIÓN PARA EL TRABAJO DE  COMFACUNDI. Grupos de hasta 35 personas (Recomendado). El precio corresponde a realizar lac apacitación en las instalaciones de la empresa. El valor incluye: capacitador, materiales  (certificados para capacitaciones mayores de 4 horas). No incluye complementos no descritos.",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        },
+                        {
+                            "title": "PROGRAMAS DE FORTALECIMIENTO EMPRESARIAL",
+                            "item": [
+                                {
+                                    "title": "FABRICAS DE PRODUCTIVIDAD",
+                                    "subtitle": "¡PORTAFOLIO ESPECIAL PARA EMPRESAS!",
+                                    "detail": "MICROEMPRESAS\n\n Programa de apoyo para los sectores de servicio,  comercialización y manufactura, mejorando sus indicadores de rentabilidad  y aumentando sus niveles de productividad, con el fin de generar mayor competencia y empleo. Incluye: Consultoría para la mejora de la productividad,  capacitaciones, aplicación metodológica exitosa, propuesta  de implementación o actualización del Plan Estratégico. Valores agregados: Análisis de riesgo y resumen ejecutivo;  Plan Estratégico; Plan Financiero; Plan de Venta.",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                },
+                                {
+                                    "title": "ASESORÍAS EMPRESARIALES",
+                                    "subtitle": "¡PORTAFOLIO ESPECIAL PARA EMPRESAS!",
+                                    "detail": "MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS\n\n Programa de apoyo para los sectores de servicio, comercialización y manufactura, mejorando sus indicadores  de rentabilidad y aumentando sus niveles de productividad, con el fin de generar mayor competencia y empleo. Incluye: Diagnóstico, capacitaciones, aplicación metodológica exitosa para la fortalecer las debilidades y potenciar las oportunidades de crecimiento en el marco de las oportunidades de los tratados y marco legal colombiano. Valores agregados: Ampliación de canales de comercio, manejo de plataformas para realizar propuestas y concursar en licitaciones. ",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                },
+                                {
+                                    "title": "TRANSFORMACIÓN DIGITAL 2.0",
+                                    "subtitle": "¡PORTAFOLIO ESPECIAL PARA EMPRESAS!",
+                                    "detail": "MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS\n\n Programa de capacitación para empresas con el fin de fortalecer la incursión en las herramientas Web 2.0 que  posicionan el negocio a las demandas actuales de servicios digitales e interactividad con los clientes. Incluye: 3 (tres) capacitaciones de manera virtual con tutoría. Valores agregados: 3 (tres) charlas de finanzas personales para los colaboradores y 1 (una) charla de manejo de estrés. ",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "CAPACITACIÓN GRUPAL",
+                    "child": [
+                        {
+                            "title": "TALLERES",
+                            "item": [
+                                {
+                                    "title": "¡NUESTROS TALLERES!",
+                                    "subtitle": "COMPETENCIAS BLANDAS",
+                                    "detail": "MINI MATCH OUT DOOR: Taller lúdico recreativo que desarrolla las competencias.  \n\nMINI MATCH IN DOOR: Taller lúdico recreativo que desarrolla las competencias blandas en una temática específica desarrolladas en el ambiente laboral. ",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        },
+                        {
+                            "title": "SEMINARIOS",
+                            "item": [
+                                {
+                                    "title": "¡NUESTROS SEMINARIOS!",
+                                    "subtitle": "COMPETENCIAS CLAVES",
+                                    "detail": "FINANZAS Y CONTABILIDAD\nINFORMÁTICA Y TECNOLOGÍA\nMARKETING Y VENTAS\nADMINISTRACIÓN Y GERENCIA\nCOACHING Y LIDERAZGO\nGESTIÓN HUMANA\nJURIDICO Y TRIBUTARIO\nINNOVACIÓN Y SOSTENIBILIDAD",
+                                    "url": "-",
+                                    "extraimg": "",
+                                    "imgs": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

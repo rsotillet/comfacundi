@@ -1,0 +1,243 @@
+{
+    "items": [
+        {
+            "title": "Subsidio Ordinario",
+            "subtitle": "¡LOS MEJORES SUBSIDIOS PARA TI!",
+            "icon": "assets/svg/inversion.svg",
+            "withBg": true,
+            "detail": "",
+            "tag": "ordinario",
+            "url": "",
+            "children": [
+                {
+                    "title": "Subsidio Ordinario",
+                    "child": [
+                        {
+                            "title": "Subsidio Ordinario",
+                            "subtitle": "¡UN APOYO EN EL SUBSIDIO ORDINARIO!",
+                            "detail": "Con el fin de aliviar la carga económica que representa el sostenimiento de la familia, el subsidio familiar en dinero o cuota monetaria es una suma que se paga mensualmente a los trabajadores de medianos y menores ingresos, por cada una de las personas que tenga a su cargo y que tengan derecho al mismo.\n\nLa Superintendencia del Subsidio Familiar mediante la Resolución No.0026 del 30 de enero de 2020, estableció el valor de la cuota monetaria para el año 2020 en el departamento de Cundinamarca, el valor de la cuota familiar ordinaria por beneficiario es de $36.030 (treinta y seis mil treinta pesos pesos M/Cte).",
+                            "detail2": "*Para los afiliados que residen en municipios donde no hay presencia de almacenes Carulla, Éxito y Surtimax, con previa solicitud de la empresa donde trabajen a COMFACUNDI, podrán retirar el subsidio familiar en cualquier punto de Efecty presentando el documento de identificación.",
+                            "withBg": false,
+                            "url": "https://www.comfacundi.com.co/familiar/#ordinario",
+                            "imgs": [
+                                "carulla.png",
+                                "exito.png",
+                                "surtimax.png",
+                                "efecty.png"
+                            ],
+                            "table1": [
+                                {
+                                    "ene": [
+                                        "30",
+                                        "31"
+                                    ],
+                                    "feb": [
+                                        "27",
+                                        "28"
+                                    ],
+                                    "mar": [
+                                        "39",
+                                        "31"
+                                    ],
+                                    "abr": [
+                                        "29",
+                                        "30"
+                                    ],
+                                    "may": [
+                                        "28",
+                                        "29"
+                                    ],
+                                    "jun": [
+                                        "26",
+                                        "30"
+                                    ],
+                                    "jul": [
+                                        "30",
+                                        "31"
+                                    ],
+                                    "ago": [
+                                        "28",
+                                        "31"
+                                    ],
+                                    "sep": [
+                                        "29",
+                                        "30"
+                                    ],
+                                    "oct": [
+                                        "29",
+                                        "30"
+                                    ],
+                                    "nov": [
+                                        "27",
+                                        "30"
+                                    ],
+                                    "dic": [
+                                        "30",
+                                        "31"
+                                    ]
+                                }
+                            ],
+                            "table2": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Otros Subsidios",
+                    "child": [
+                        {
+                            "title": "Subsidio Especial",
+                            "subtitle": "¡SUBSIDIO ESPECIAL!",
+                            "withBg": true,
+                            "detail": "El trabajador tiene derecho a que se le pague doble cuota monetaria por los hijos, hermanos huérfanos de padre y madre, por los padres sin límite de edad, cuando el beneficiario presente discapacidad mínima del 60% que les impida trabajar o estudiar, y demuestre que se encuentran a su cargo y conviven con él.\n\nPara recibir el subsidio Especial se debe acreditar la Discapacidad mediante certificado de la EPS.\n\nEl valor del subsidio especial es $72.060.",
+                            "detail2": "",
+                            "url": "-",
+                            "table2": [],
+                            "table1": [],
+                            "imgs": []
+                        },
+                        {
+                            "title": "Subsidio Extraordinario",
+                            "withBg": true,
+                            "subtitle": "¡SUBSIDIO EXTRAORDINARIO!",
+                            "url": "https://www.comfacundi.com.co/familiar/#extraordinario",
+                            "detail2": "",
+                            "table2": [],
+                            "table1": [],
+                            "imgs": [],
+                            "detail": "Este subsidio se otorga cuando muere el trabajador cotizante o una de las personas a cargo afiliadas por el trabajador.\n\nCuando fallece el trabajador beneficiario del subsidio familiar y que en el mes inmediatamente anterior hubiese recibo el subsidio, COMFACUNDI pagara a los beneficiarios el valor correspondiente a 12 meses del monto del subsidio familiar por cada hijo beneficiario.\n\nCuando fallece una de las personas a cargo por la cual recibía subsidio familiar, COMFACUNDI pagara 12 cuotas del monto del subsidio familiar al trabajador."
+                        },
+                        {
+                            "title": "Subsidio Solidario en el Campo",
+                            "subtitle": "¡SUBSIDIO SOLIDARIO CON EL CAMPO!",
+                            "withBg": true,
+                            "detail2": "",
+                            "url": "-",
+                            "table2": [],
+                            "table1": [],
+                            "imgs": [],
+                            "detail": "Comprometidos con el desarrollo del campo Dando cumplimiento al Artículo 05 de la Ley 789 de 2002 “Solidaridad de la ciudad con el campo”, la Caja de Compensación Familiar de Cundinamarca COMFACUNDI le informa a sus empresas afiliadas cuya actividad económica principal son las labores relacionadas con agricultura, ganadería, caza y silvicultura, sobre el incremento del 15% en la cuota monetaria para este 2020.\n\nPor lo tanto, si tiene trabajadores desempeñando una de estas labores, deben radicar en nuestra Sede Administrativa Calle 53 No. 10-39 piso 5 en Bogotá, la copia del contrato, el cual debe contener el cargo u ocupación.\nDe acuerdo con lo anterior la cuota monetaria para los trabajadores que cumplen con este requisito y según los términos de Ley vigentes para el año 2020 es de $41.435.\n\n¡Gracias por hacer del campo un sector de oportunidades y superación!"
+                        },
+                        {
+                            "title": "Subsidio Simultaneo",
+                            "subtitle": "¡SUBSIDIO SILMUTÁNEO!",
+                            "withBg": true,
+                            "detail2": "",
+                            "url": "-",
+                            "table2": [],
+                            "table1": [],
+                            "imgs": [],
+                            "detail": "Si el trabajador y su cónyuge de manera individual cotizan simultáneamente al régimen del Subsidio Familiar, ambos podrán cobrar la cuota monetaria por sus mismos hijos. Como requisito la suma de las remuneraciones mensuales no puede exceder el valor de cuatro salarios mínimos legales vigentes ($3.511.212).\n\nCuando el ingreso del grupo familiar (trabajador(a) y esposo(a) o compañero permanente) supera los 4 SMMLV ($3.511.212) y no supera los seis 6 SMMLV  ($5.266.818), solo recibirá el trabajador que tenga menores ingresos."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Subsidio Educativo",
+            "subtitle": "¡UN APOYO EN EL SUBSIDIO EDUCATIVO!",
+            "icon": "assets/svg/s_educativo2.svg",
+            "withBg": true,
+            "tag": "s_educativo",
+            "children": [],
+            "url": "https://www.comfacundi.com.co/familiar/#educativo",
+            "detail": "COMFACUNDI cada año entre enero y marzo entrega un Subsidio Educativo representado en un Kit Escolar, para los hijos delos trabajadores beneficiarios que hayan recibido subsidio familiar en dinero correspondiente a los periodos de agosto, septiembre, octubre y noviembre de manera consecutiva y cuyas edades al 31 de diciembre de estén entre los 06 y los 16 años.\n\nPara tener derecho al Subsidio Educativo, la empresa debe estar afiliada en agosto, de permanecer afiliado a COMFACUNDI al 31 de diciembre y con esa misma fecha tener al día los aportes correspondientes a los periodos 2019/08 al 2019/11."
+        },
+        {
+            "title": "Subsidio al desempleo",
+            "subtitle": "¡SUBSIDIO AL DESEMPLEO!",
+            "icon": "assets/svg/s_empleo2.svg",
+            "tag": "s_empleo",
+            "url": "-",
+            "children": [],
+            "withBg": false,
+            "detail": "¡TE APOYAMOS MIENTRAS ENCUENTRA EMPLEO!\n\n¿Qué es el Subsidio al Desempleo? \nEs una serie de beneficios que se otorga a las personas que están en condición de desempleo y cumplen con los requisitos de acceso de acuerdo a la normatividad legal vigente\n\nBeneficios:\n• Pago a salud calculado sobre 1 SMMLV\n• Pago a pensión calculado sobre 1 SMMLV\n• Cuota monetaria. (si tenía beneficiarios)\n\nRequisitos:\n• Encontrarse en condición de desempleado por cualquier causa\n• En caso de ser independiente su contrato haya cumplido con el plazo de duración pactado y que no cuente con ningún otro contrato (no tener ninguna fuente de ingresos)\n• Haber realizado aportes durante un (1) año, continuo o discontinuo a una Caja de Compensación Familiar en el transcurso de los últimos tres (3) años. Para los trabajadores independientes dos (2) años.\n• Estar inscrito en la Plataforma del Servicio de Empleo\n• Estar inscrito en programas de capacitación y re-entrenamiento\n\nDocumentos:\n• Formulario Único de Postulación al Mecanismo de Protección al Cesante COMFACUNDI\n• Fotocopia legible de la Cédula\n• Certificado de inscripción a la Agencia de Gestión y Colocación de Empleo de COMFACUNDI o una agencia de empleo debidamente autorizada\n• Certificación sobre cesación laboral expedida por el empleador, indicando la fecha exacta de la terminación laboral, última remuneración del trabajador y causa de la terminación\n• Certificado de inscripción a la Agencia de Gestión y Colocación de Empleo de COMFACUNDI o una agencia de empleo debidamente autorizada\n• Certificación sobre cesación laboral expedida por el empleador, indicando la fecha exacta de la terminación laboral, última remuneración del trabajador y causa de la terminación\n• Certificados vigentes que sumen los últimos 12 meses de afiliación a las diferentes Cajas de Compensación. (En caso de tener beneficiarios de cuota monetaria, incluirlos en la certificación).\n• Si los beneficiarios son mayores de 12 años, anexar certificado de estudio original, así como registro civil y Tarjeta de Identidad.\n• Si los beneficiarios son mayores de 60 años, anexar copia de la cédula y registro civil del postulante.\n• Certificación de E.P.S.\n• Certificado de A.F.P"
+        },
+        {
+            "title": "Subsidio de vivienda",
+            "subtitle": "¡EL MEJOR SUBSIDIO PARA UN NUEVO HOGAR!",
+            "icon": "assets/svg/s_casa.svg",
+            "tag": "s_casa",
+            "url": "",
+            "withBg": false,
+            "detail": "Es un recurso ECONÓMICO, que se otorga una sola vez a los afiliados, el cual se constituye en un APORTE complementario a los recursos del hogar para facilitar la adquisición, construcción o mejora de una solución de vivienda.",
+            "children": [
+                {
+                    "title": "REQUISITOS COMPRA DE VIVIENDA NUEVA",
+                    "child": [
+                        {
+                            "title": "REQUISITOS COMPRA DE VIVIENDA NUEVA",
+                            "subtitle": "¡REQUISITOS COMPRA DE VIVIENDA NUEVA!",
+                            "withBg": true,
+                            "detail2": "",
+                            "url": "https://www.comfacundi.com.co/vivienda/#requisitos",
+                            "imgs": [],
+                            "detail": "• Ser afiliado activo a Comfacundi.\n\n• Tener un hogar comformado por una o más personas que integren el mismo núcleo familiar, los cónyuges, las uniones maritales de hecho, incluyendo las parejas del mismo sexo, y/o el grupo de personas unidas por vínculo de parentesco hasta tercer grado de consanguinidad, segundo de afinidad y primero civil, que compartan un mismo espacio habitacional.\n\n• Recibir ingresos iguales o menores a cuatro salarios mínimos legales mensuales vigentes ($ 3.511.212).\n\n• No ser propietarios ni poseedores de vivienda, excepto para mejoramiento de vivienda.\n\n• Acreditar un ahorro del 10% que sumado a los recursos complementarios (crédito) y el valor del subsidio, sean suficientes para acceder a la solución de vivienda.\n\n• Que el grupo familiar no haya sido beneficiario de Subsidio Familiar de Vivienda.\n\n• Adquirir vivienda nueva dentro de los planes elegibles, conforme con los requisitos y procedimientos establecidos en la reglamentación vigente.\n\n• Se aclara que para efectos de la calificación se tendrá en cuenta únicamente el ahorro previo demostrado al momento",
+                            "table2": [
+                                {
+                                    "title": "APERTURA DE POSTULACIONES",
+                                    "details": [
+                                        "2 ENE",
+                                        "1 ABR",
+                                        "1 JUL",
+                                        "1 OCT"
+                                    ]
+                                },
+                                {
+                                    "title": "CORTE DE POSTULACIONES",
+                                    "details": [
+                                        "15 MAR",
+                                        "15 JUN",
+                                        "15 SEP",
+                                        "15 DIC"
+                                    ]
+                                },
+                                {
+                                    "title": "FECHA DE ASIGNACIONES",
+                                    "details": [
+                                        "30 MAR",
+                                        "30 JUN",
+                                        "30 SEP",
+                                        "30 DIC"
+                                    ]
+                                }
+                            ],
+                            "table1": []
+                        }
+                    ]
+                },
+                {
+                    "title": "SUBSIDIO PARA COMPRA DE VIVIENDA NUEVA",
+                    "child": [
+                        {
+                            "title": "SUBSIDIO PARA COMPRA DE VIVIENDA NUEVA",
+                            "subtitle": "¡SUBSIDIO PARA COMPRA VIVIENDA NUEVA!",
+                            "withBg": true,
+                            "detail2": "",
+                            "url": "-",
+                            "table2": [],
+                            "imgs": [],
+                            "table1": [],
+                            "detail": "VIVIENDA NUEVA\n\nEs la modalidad mediante la cual el beneficiario del subsidio adquiere su solución de vivienda nueva dentro de los planes elegibles, conforme con los requisitos y procedimientos establecidos en la reglamentación vigente.\n\n\nVALORES DEL SUBSIDIO\n\nEl monto del Subsidio de Vivienda se  determina conforme al nivel de ingresos familiares del hogar postulante para el caso de Compra de Vivienda Nueva. "
+                        }
+                    ]
+                },
+                {
+                    "title": "SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO",
+                    "child": [
+                        {
+                            "title": "SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO",
+                            "subtitle": "¡SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO!",
+                            "withBg": true,
+                            "detail2": "",
+                            "table2": [],
+                            "imgs": [],
+                            "table1": [],
+                            "detail": "El Subsidio Familiar de Vivienda en la modalidad de construcción en Lote Propio o Mejoramiento, se tramita a través de entidades oferentes (Constructores), quienes serán los responsables de la formulación del proyecto (elegibilidad), verificación de requisitos, trámite del Subsidio, cumplimiento de aspectos técnicos, legales y financieros, trámite de la licencia de construcción ante el ente encargado, ejecución de las obras de construcción o mejoramiento de la vivienda y de la presentación de su postulación ante COMFACUNDI.\n\nMejoramiento de Vivienda: Modalidad de subsidio con la cual se puede mejorar la carencias de la vivienda que se habita con su grupo familiar. Se puede hacer las mejoras en aspectos como: estructuras, cimientos, muros, cubiertas, ausencia o deficiencia de redes internas eléctricas y/o hidráulicas.",
+                            "url": "https://www.comfacundi.com.co/vivienda/#ensitio"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

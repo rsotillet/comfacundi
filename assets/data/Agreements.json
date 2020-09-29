@@ -1,0 +1,532 @@
+{
+    "items": [
+        {
+            "title": "Salud Bienestar",
+            "subtitle": "¡SALUD Y BIENESTAR PARA TI!",
+            "hero": "ambulancia",
+            "icon": "assets/svg/ambulancia.svg",
+            "children": [
+                {
+                    "title": "CRUZ VERDE",
+                    "image": "cruzverde.jpg",
+                    "benefit": "Descuento del 5% presentando carnet de afiliación, descuentos de temporada en medicamentos genéricos, descuentos de temporada en toda la droguería. Los descuentos no son acumulables y están a discreción del aliado",
+                    "direction": "A nivel Nacional",
+                    "phone": " (57-1) 486 5000",
+                    "web": "www.cruzverde.com.co"
+                },
+                {
+                    "title": "PLAN MÉDICO DOMICILIARIO - COLSANITAS",
+                    "image": "planmedicodomiciliariocolsanitas.jpg",
+                    "benefit": "Tarifa preferencial $33.300 por persona.",
+                    "direction": "Bogotá",
+                    "phone": "321 271 4209",
+                    "web": ""
+                },
+                {
+                    "title": "ÓPTICAS UNIVER",
+                    "image": "univer.jpg",
+                    "benefit": "Valoración sin costo y descuentos en lentes y monturas hasta del 15% presentando carnet de afiliación.",
+                    "direction": "Av. Caracas # 49 – 55 Lc. 5 - Bogotá(14 sedes en Bogota y 32 sedes a nivel nacional).",
+                    "phone": "313 207 1069",
+                    "web": ""
+                },
+                {
+                    "title": "ARTE Y SONRISA - SALUD ORAL IPS",
+                    "image": "arteysonrisa.png",
+                    "benefit": "10% de descuento – presentando carnet de afiliación",
+                    "direction": " Calle 8 # 4 A – 17 - Facatativá",
+                    "phone": "",
+                    "web": "www.arteysonrisasaludoral.pclaro.co"
+                },
+                {
+                    "title": "CONSULTORIO ODONTOLÓGICOS - COE",
+                    "image": "coe.png",
+                    "benefit": " 20% promoción y prevención y 10% odontología general y especializada – presentando carnet de afiliación.",
+                    "direction": "Calle 10 # 6-33 - Ubaté",
+                    "phone": "(57 1) 889 1495- 320 9559005",
+                    "web": ""
+                },
+                {
+                    "title": "DENTISALUD",
+                    "image": "dentisalud.png",
+                    "benefit": "Valoración sin costo, 7% al 10% de Dcto. En ortodoncia, y un 40% de Dcto en tratamientos de odontología general",
+                    "direction": "",
+                    "phone": "Solicitar  valoración sin costo al Cel. 3222498674",
+                    "web": "https://dentisalud.com.co/"
+                },
+                {
+                    "title": "MARLON BECERRA",
+                    "image": "marlon.png",
+                    "benefit": "Valoración sin costo, 15% Dcto. en todos los tratamientosCrédito Comfacundi (sólo empresas con convenio de libranza)",
+                    "direction": "Convenio a nivel Nacional",
+                    "phone": "",
+                    "web": "citas-> https://marlonbecerra.co/citas"
+                },
+                {
+                    "title": "CABALLITOS DE MAR - FITNESS CENTER",
+                    "image": "caballitodelmarfitness.jpg",
+                    "benefit": "15% sobre la tarifa de curso de natación, gimnasio, piscina de recreación, y sauna – presentando carnet de afiliación",
+                    "direction": "Calle 7 8-58 - Ubaté",
+                    "phone": " 311 218 5600 - 321 234 7943",
+                    "web": ""
+                },
+                {
+                    "title": "BEST BODY  - DEPORTE Y SALUD",
+                    "image": "bestbody.png",
+                    "benefit": "Tarifas Preferenciales en la matrícula. Acercarse a las instalaciones del convenio para inscripción directa con el beneficio",
+                    "direction": "",
+                    "phone": "",
+                    "web": "www.bestbody.com .co/index.html"
+                }
+            ]
+        },
+        {
+            "title": "Eventos, deportes y spa",
+            "subtitle": "¡EVENTOS, DEPORTES, SPA PARA TI!",
+            "hero": "calendario",
+            "icon": "assets/svg/calendario.svg",
+            "children": [
+                {
+                    "title": "AC MUNDO - FORMACIÓN DEPORTIVA",
+                    "image": "acmundoformaciondeportiva.png",
+                    "benefit": "Descuentos desde el 10% hasta el 25% en las escuelas deportivas de Fútbol, Tenis, Patinaje, Natación, Baloncesto y Polimotor",
+                    "direction": "Localidad de Engativa - Bogotá",
+                    "phone": "312 392 0376",
+                    "web": ""
+                },
+                {
+                    "title": "AQUA  CENTER",
+                    "image": "aquacenter.jpg",
+                    "benefit": "Porcentaje de descuento en; 15% en cursos de natación, 20% a las cotizaciones que se realicen para en eventos y fiestas infantiles en todos los paquetes , 20% en clases especificas.",
+                    "direction": "Cra 1 No. 12b -36 - Soacha",
+                    "phone": "313 870 3815",
+                    "web": ""
+                },
+                {
+                    "title": "C.D.I. INDEPENDIENTE",
+                    "image": "independienteclubdeportivo.jpg",
+                    "benefit": "Acceso las disciplinas de formación que brinda CDI con el 20% de descuento por parte de Comfacundi en la tarifa «Policía Nacional» ",
+                    "direction": "Bogotá",
+                    "phone": "312 367 6284",
+                    "web": ""
+                },
+                {
+                    "title": "SPINNING CENTER - GYM",
+                    "image": "SpinningCentergym.jpg",
+                    "benefit": "15% de descuento en la afiliación en planes corporativos",
+                    "direction": "Multiples Sedes",
+                    "phone": "318 416 3902",
+                    "web": ""
+                },
+                {
+                    "title": "STARK - SMART GYM",
+                    "image": "starksmartgym.jpg",
+                    "benefit": "Porcentaje de descuento en; 11% en inscripción del mes, 16% en inscripción de 4 meses y en la inscripción del semestre, 22% en inscripción anual.",
+                    "direction": "Multiples Sedes",
+                    "phone": "300 396 7774",
+                    "web": ""
+                }
+            ]
+        },
+        {
+            "title": "Educacion y capacitacion",
+            "subtitle": "¡EDUCACIÓN PARA TI!",
+            "hero": "birrete",
+            "icon": "assets/svg/birrete.svg",
+            "children": [
+                {
+                    "title": "U. NACIONAL - ABIERTA Y A DISTANCIA",
+                    "image": "unad.jpg",
+                    "benefit": " 15% de descuento de la matricula. Institución de educación superior en programas de Pregrado, especializaciones, maestrías y educación no formal.",
+                    "direction": " Bogotá, Zipaquirá y Puerto Salgar",
+                    "phone": "",
+                    "web": "https://www.unad.edu.co/"
+                },
+                {
+                    "title": "UNIVERSIDAD ECCI",
+                    "image": "ecci.png",
+                    "benefit": "5% de descuento. Mantener promedio 3.8 Ofrece programas de educación permanente, pregrado, especializaciones, maestrías y educación continua.",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "https://www.ecci.edu.co/es/Bogota/inicio"
+                },
+                {
+                    "title": "ULA",
+                    "image": "ula.png",
+                    "benefit": "5% en programas de idiomas con duración de (un) 1 año, 6% en programas de idiomas con duración de (dos) 2 años.En pagos de contado y de financiación.",
+                    "direction": "Bogotá y Soacha",
+                    "phone": "",
+                    "web": "https://ulaidiomas.edu.co/"
+                },
+                {
+                    "title": "SMART - ACADEMIA DE IDIOMAS",
+                    "image": "smartacademy.png",
+                    "benefit": "10% Dcto.Capacitación en programas de Inglés, Francés, Portugués, Alemán, Italiano y preparación para pruebas Internacional.",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "http://smart.edu.co"
+                },
+                {
+                    "title": "ACADEMIA DE ARTE Y MÚSICA INTEGRAL",
+                    "image": "amiacademiapixel.jpg",
+                    "benefit": "30% sobre cualquier programa: Formación de competencias artísticas, Cursos Libres Integrales: Música (todos los instrumentos), Iniciación musical, Ballet, Danza contemporánea, Artes Plásticas Diplomados: Interpretación vocal  y Fotografía",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "https://amiacademiademusica.com.co/"
+                },
+                {
+                    "title": "INSTITUTO VILLA DE SAN DIEGO",
+                    "image": "villasandiego.png",
+                    "benefit": " Descuentos del 20% hasta el 60% en los diferentes ciclos.Educación por ciclos, Virtual, semi presencial o presencial",
+                    "direction": "Ubaté",
+                    "phone": "311 458 9642",
+                    "web": ""
+                },
+                {
+                    "title": "CIES",
+                    "image": "cies.png",
+                    "benefit": "Descuentos del 50% en la inscripción Descuentos especiales dependiendo de la modalidad Técnicos Laborales – Politécnico Grancolombiano, Berlitz y Educación Continua",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "https://cies.edu.co/"
+                },
+                {
+                    "title": "U. COLEGIO MAYOR DE CUNDINAMARCA",
+                    "image": "colegiomayorcundinamarca.png",
+                    "benefit": "Descuento del 5%Educación continua Cocina, Belleza, Manualidades, Entre otros",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "http://www.unicolmayor.edu.co/portal/"
+                },
+                {
+                    "title": "UNIVERSIDAD AUTÓNOMA DE COLOMBIA",
+                    "image": "logo.png",
+                    "benefit": "10% en la matrícula. Pregrados y Postgrados.",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "http://www.fuac.edu.co/aspirantes"
+                },
+                {
+                    "title": "CORPORACIÓN UNIFICADA NACIONAL DE EDUCACIÓN SUPERIOR",
+                    "image": "CUN.png",
+                    "benefit": "Descuentos del 20% Formación continuada - 25% Técnico Profesional Presencial 30% Técnico Profesional Distancia  - 50% Técnico Profesional Virtual - 25% Especializaciones ",
+                    "direction": "Bogotá",
+                    "phone": "",
+                    "web": "https://www.cun.edu.co/"
+                },
+                {
+                    "title": "ESCUELA DE ENTRENAMIENTO EN HERRAMIENTAS DIGITALES",
+                    "image": "descarga.png",
+                    "benefit": "15% en cursos, 20% en diplomados en las modalidades presenciales y Blended Learning y 20% en cursos virtuales (los descuentos aplican solo para pagos de contado)",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://www.cedinsi.edu.co/ "
+                },
+                {
+                    "title": "ACADEMIA MUSICAL BAQUETA",
+                    "image": "baqueta.jpg",
+                    "benefit": "Herramientas para aprender a tocar tu instrumento favorito. 20% de descuento ",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://www.baqueta.com.co/"
+                },
+                {
+                    "title": "ASOCIACIÓN MUTUAL BURSATIL",
+                    "image": "asobursatil.png",
+                    "benefit": "Cursos especializados para nuestros asociados y avalados por la Bolsa de Valores de Colombia. 10% de descuento",
+                    "direction": "",
+                    "phone": "",
+                    "web": " https://www.asobursatil.org/"
+                },
+                {
+                    "title": "CENTRO DE FORMACIÓN BANCARIA Y FINANCIERA",
+                    "image": "centrodeformacion.png",
+                    "benefit": "Centro de estudios en educación para el trabajo y desarrollo humano. 8% de descuento",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://cfb.edu.co/"
+                },
+                {
+                    "title": "FUNDACIÓN DOKUMA",
+                    "image": "DOKUMA.png",
+                    "benefit": " Creación, implementación y fortalecimiento de proyectos educativos innovadores.  Descuento: 10% en talleres, cursos y diplomados ofertados en sus sedes,  eventos educativos a nivel nacional o internacional. Descuento especial en talleres, cursos y diplomados para grupos superiores a 15 personas asi: 10% - De 10 a 15 personas 15% De 25 a 40 personas",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://dokuma.tech/"
+                },
+                {
+                    "title": "CENTRO DE IDIOMAS UNIVERSAL",
+                    "image": "universallogo.png",
+                    "benefit": "Capacitación en programas de Inglés, Francés, Portugués, Alemán, Italiano y preparación para pruebas InternacionalNivel A1 y A2 35% - Nivel B1 y B2 30%",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://www.asobursatil.org/"
+                },
+                {
+                    "title": "UNILATINA",
+                    "image": "unilatina.jpg",
+                    "benefit": "Programas Tecnicos Profesionales y Tecnológicos. 50%  Primer Semestre 25% semestres siguientes",
+                    "direction": "",
+                    "phone": "",
+                    "web": "https://unilatina.edu.co/"
+                }
+            ]
+        },
+        {
+            "title": "Entretenimiento y cultura",
+            "subtitle": "¡PURA DIVERSIÓN PARA TI!",
+            "hero": "cotufas",
+            "icon": "assets/svg/cotufa.svg",
+            "children": [
+                {
+                    "title": "LA SALA",
+                    "image": "lasala.png",
+                    "benefit": "30% en boletería, talleres para niños en las disciplinas de danza, teatro , música y audiovisuales, talleres específicos, 20% en librería y 10% en alquiler de salas, teatro para reuniones y actividades culturales.",
+                    "direction": "Carrera 22 # 41-28 – La Soledad",
+                    "phone": "(571) 712 5724 - 316 473 0842",
+                    "web": ""
+                },
+                {
+                    "title": "CASA ENSAMBLE - MULTIPLEX TEATRAL",
+                    "image": "casaensamble.jpg",
+                    "benefit": " Descuento hasta del 30% adquiriendo boletas con las ejecutivas integrales de Comfacundi",
+                    "direction": "Cra. 24 #41-69 - Bogotá",
+                    "phone": "320 814 2064",
+                    "web": "www.casae.com"
+                },
+                {
+                    "title": "DITIRAMBO - TEATRO",
+                    "image": "ditiramboteatro.png",
+                    "benefit": "15% de descuento – Presentando carnet de afiliación.",
+                    "direction": "Calle 45 # 14-37 - Bogotá",
+                    "phone": "(57 1) 232 6440 - 315 604 8280 – 310 680 0677",
+                    "web": ""
+                },
+                {
+                    "title": "EL CORTIJO - PARQUE ACUÁTICO",
+                    "image": "elcortijoparqueacuatico.jpg",
+                    "benefit": "10 % de descuento en los servicios de «El cortijo»",
+                    "direction": "Km 1 via La Dorada - Honda",
+                    "phone": "316 402 5744",
+                    "web": ""
+                },
+                {
+                    "title": "ECOPARQUE CHINAUTA",
+                    "image": "ecoparquechinauta.jpg",
+                    "benefit": " Descuento del 10% sobre la tarifa de alojamiento, planes días y planes de aventura o empresariales – Presentando carnet de afiliación.",
+                    "direction": "Chinauta Km 70, Vía Bogotá – Melgar",
+                    "phone": "",
+                    "web": "http://ecoparquechinauta.com"
+                },
+                {
+                    "title": "HOTEL PALAGUAS",
+                    "image": "hotelpalaguapixel.jpg",
+                    "benefit": "Ofrece 20 % de descuento, sus paquetes turísticos de Alojamiento, alimentación y estadías – Presentando carnet de afiliación.",
+                    "direction": "Avenida Santander # 30- 48 - Puerto Boyacá",
+                    "phone": "(57 8) 738 3606",
+                    "web": ""
+                },
+                {
+                    "title": "LOS TRAPICHES",
+                    "image": "trapiches.jpg",
+                    "benefit": "10% de descuento en el valor de la entrada, servicios de zona camping y paintball.5% de descuento en el servicio de alimentación y bebidas – Presentando carnet de afiliación.",
+                    "direction": "Silvania",
+                    "phone": "",
+                    "web": ""
+                },
+                {
+                    "title": "PEÑALISA MALL",
+                    "image": "penalisalogo.jpg",
+                    "benefit": "10% en el restaurante New York Steak House y Pizzería de la bolera. Bono de $20,000 pesos, redimibles en todos los juegos y diversiones ofrecidas por el propio casino.Descuento del 10% en el valor de la línea (incluido el valor de los zapatos) – Presentado carnet de afiliación.",
+                    "direction": ": Calle 10 #26-41 en Ricaurte vía Girardot. - Barrio villa esperanza 2 etapa",
+                    "phone": "319 216 8565",
+                    "web": ""
+                },
+                {
+                    "title": "CATEDRAL DE SAL - ZIPAQUIRÁ",
+                    "image": "catedraldesal.png",
+                    "benefit": "15% de descuento en la entrada a la catedral de Sal de Zipaquirá, y hasta máximo 4 personas acompañantes – Presentando carnet de afiliación.",
+                    "direction": "Carrera 6 Calle 1 - Zipaquirá",
+                    "phone": "",
+                    "web": "http://catedraldesal.gov.co"
+                },
+                {
+                    "title": "LA RELIQUIA",
+                    "image": "centrovacacionalreliquiapixel.png",
+                    "benefit": "10% de descuento en servicios de «La reliquia» Ubicación:Kilometro 2 Via Otanche, Pauna 154801 Colombia",
+                    "direction": "",
+                    "phone": "318 820 0458",
+                    "web": ""
+                },
+                {
+                    "title": "TERMALES LOS VOLCANES",
+                    "image": "termaleslosvolcanes.png",
+                    "benefit": "Porcentaje de descuento en; 5% en alimentación, 15% en pasadía y 10% en hospedaje",
+                    "direction": "Km 13 vía, El Sisga – Machetá, Chocontá, Cundinamarca",
+                    "phone": "313 394 0741",
+                    "web": ""
+                },
+                {
+                    "title": "CHICAQUE",
+                    "image": "chicaque.jpg",
+                    "benefit": "Tarifas preferenciales Comfacundi en todo los servicios que presta. Ubicación: Vía Soacha, Km. 8, Soacha, Mosquera, Cundinamarca",
+                    "direction": "",
+                    "phone": "318 350 6147",
+                    "web": ""
+                },
+                {
+                    "title": "HI TRAVEL COLOMBIAN TOURS",
+                    "image": "hitravels.png",
+                    "benefit": "Circuitos experienciales con la naturaleza para grupos desde 4 personas Incluye: Transporte, Almuerzo típico (Fiambre), Bambuterapia, Chorros de agua y una de estas experiencias: «Experiencia del Cafe; Experiencia de la panela y la naranja; Experiencia Cerveza artesanal – con tarifas preferenciales",
+                    "direction": "Pacho – Cundinamarca",
+                    "phone": "322 606 2063",
+                    "web": ""
+                }
+            ]
+        },
+        {
+            "title": "Hogar y Decoración",
+            "subtitle": "¡MUCHOS BENEFICIOS!",
+            "hero": "hogar",
+            "icon": "assets/svg/casa.svg",
+            "children": [
+                {
+                    "title": "ELECTROGEMELS ELECTRODOMÉSTICOS Y TECNOLOGÍA",
+                    "image": "home.png",
+                    "benefit": " Electrodomésticos, línea audio e imagen, movilidad y tecnología para los afiliados con descuentos especiales. Crédito Comfacundi",
+                    "direction": "Bogotá",
+                    "phone": "313 891 4781",
+                    "web": "https://www.electrogemels.com"
+                },
+                {
+                    "title": "MULTIGANGAS",
+                    "image": "multigangaspixel.png",
+                    "benefit": "8% de Descuento en toda la tienda, Presentar carne de afiliación en el establecimiento.",
+                    "direction": "Carrera 3 # 16-24 La Dorada.",
+                    "phone": "(57 6) 857 6119",
+                    "web": ""
+                },
+                {
+                    "title": "SPECIAL HOME",
+                    "image": "home.png",
+                    "benefit": "Descuentos hasta de un 35% en línea descanso, línea muebles y lencería de cama. Presentando el Carné de afiliación o por crédito Comfacundi",
+                    "direction": "",
+                    "phone": "317 432 3820",
+                    "web": "www.specialho.co"
+                },
+                {
+                    "title": "LILI PINK",
+                    "image": "lilipink.jpg",
+                    "benefit": " 10% En todas las tiendas a nivel nacional – presentando carnet de afiliación. Ofertas y descuentos no aplican para franquicias",
+                    "direction": "En cualquier punto Lili Pink",
+                    "phone": "",
+                    "web": "https://lilipink.com/"
+                },
+                {
+                    "title": "JARDINES DE PAZ",
+                    "image": "jardinesdepazlogo.png",
+                    "benefit": "Tarifas preferenciales",
+                    "direction": "Bogotá",
+                    "phone": "(57 1) 610 26 11 - 315 242 00834 La Dorada. - (57 6) 857 6119",
+                    "web": ""
+                }
+            ]
+        },
+        {
+            "title": "Recreación y esparcimiento",
+            "subtitle": "¡MOMENTOS DE RECREACIÓN Y ESPARCIMIENTO!",
+            "hero": "personita",
+            "icon": "assets/svg/personita.svg",
+            "children": [
+                {
+                    "title": "SALITRE MÁGICO",
+                    "image": "salitremagico.png",
+                    "benefit": "Tarifa preferencial boleta física pasaporte Extremo – Adquiere tus boletas con tu ejecutivo empresarial de Comfacundi o en nuestras oficinas: Calle 53 No. 10-39 – Zona Recreativa",
+                    "direction": "Calle 53 10 - 39 - Bogotá",
+                    "phone": " (57 1) 348 1248 ext. 103",
+                    "web": ""
+                },
+                {
+                    "title": "DIVERCITY",
+                    "image": "DIVERCITY.jpg",
+                    "benefit": "Tarifa preferencial en boleta física niño. Adquiere tus entradas en las oficinas de Comfacundi o con tu ejecutivo integral: Calle 53 No. 10-39 – Zona Recreativa",
+                    "direction": "Calle 53 10 - 39 - Bogotá",
+                    "phone": " (57 1) 348 1248 ext. 104  -320 462 6070",
+                    "web": ""
+                },
+                {
+                    "title": "MUNDO AVENTURA",
+                    "image": "mundoaventura.jpg",
+                    "benefit": "Tarifa preferencial en pasaporte zafiro con refrigerio. Adquiere tus entradas en las oficinas de Comfacundi o con tu ejecutivo integral: Calle 53 No. 10-39 – Zona Recreativa ",
+                    "direction": "Calle 53 10 - 39 - Bogotá",
+                    "phone": "(57 1) 348 1248 ext. 104",
+                    "web": ""
+                },
+                {
+                    "title": "LA VERDIERI",
+                    "image": "laverdiericlub.jpg",
+                    "benefit": "10% de descuento en todos los escenarios deportivos, salones y planes recreativos – Presentando carnet de afiliación.Deportes: 16 canchas de tennis, 7 campos de fútbol 8, cancha cubierta para baloncesto, fitness. Social: 5 salones para eventos, capilla privada, 2 restaurantes, spa-zonas húmedas, hotel, tienda deportiva.",
+                    "direction": "Kilometro 6 Vía Suba – Cota",
+                    "phone": "310 556 7822",
+                    "web": ""
+                },
+                {
+                    "title": "SUPER BOWLING",
+                    "image": "SUPERBOWLING.jpg",
+                    "benefit": "Descuento del 10 % para grupos superiores 20",
+                    "direction": "Cl. 63, #28a52, Bogotá",
+                    "phone": "320 563 1526",
+                    "web": ""
+                },
+                {
+                    "title": "MALOKA",
+                    "image": "malokalogo.png",
+                    "benefit": ": Tarifa preferencial boleta física pasaporte con visita a ciencia interactiva y cine domo o 3D – Adquiere tus boletas en nuestras oficinas.",
+                    "direction": "Calle 53 10 - 39 - Bogotá",
+                    "phone": "(57 1) 348 1248 ext. 106",
+                    "web": ""
+                },
+                {
+                    "title": "RESTAURANTE EL HABANERO",
+                    "image": "logoelhabanero.png",
+                    "benefit": "(Especialidad Pollo Peri-peri al mejor estilo cubano)Descuento del 20% en productos seleccionados",
+                    "direction": "Calle 53 10 - 39 - Bogotá",
+                    "phone": "301 333 0986",
+                    "web": "www.elhabanero.com.co"
+                }
+            ]
+        },
+        {
+            "title": "Convenios en Municipios",
+            "subtitle": "¡VIVE CON TU FAMILIA GRANDES MOMENTOS!",
+            "hero": "mapa",
+            "icon": "assets/svg/mapa.svg",
+            "children": [
+                {
+                    "title": "COFREM",
+                    "image": "LOGOCOFREM.jpg",
+                    "benefit": "Tarifas especiales en servicios de recreación, turismo, cultura y educación. Aprovechamiento de oferta en hoteles, parques recreativos y centros educativos para nuestros afiliados y beneficiarios",
+                    "direction": "Av. 40 No. 35a-19 – Villavicencio",
+                    "phone": "318 713 0461",
+                    "web": ""
+                },
+                {
+                    "title": "CONFA",
+                    "image": "CONFALOGO.png",
+                    "benefit": " Tarifas especiales en servicios de recreación, turismo, cultura y educación. Aprovechamiento de oferta en hoteles, parques recreativos y centros educativos para nuestros afiliados y beneficiarios.",
+                    "direction": " Clle 3 No. 14-49 Piso 3 – Dorada",
+                    "phone": "o: (57 6) 857 29 40 – 857 29 41 – Fax 857 23 07",
+                    "web": ""
+                },
+                {
+                    "title": "COMFABOY",
+                    "image": "COMFABOY.png",
+                    "benefit": "Tarifas especiales en servicios de recreación, turismo, cultura y educación. Aprovechamiento de oferta en hoteles, parques recreativos y centros educativos para nuestros afiliados y beneficiarios.",
+                    "direction": "Cra 12 #20-84 – Tunja – Boyacá.",
+                    "phone": " (57 8) 7407948",
+                    "web": ""
+                }
+            ]
+        }
+    ]
+}
