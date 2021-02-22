@@ -13,7 +13,7 @@ class LaunchButton extends StatelessWidget {
     return Material(
       //Wrap with Material
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.all(Radius.circular(100)),
+        borderRadius: BorderRadius.all(Radius.circular(200)),
       ),
       elevation: 0,
       color: Colors.transparent,
@@ -27,7 +27,7 @@ class LaunchButton extends StatelessWidget {
           child: Text(
             text,
             textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 20.0, color: Colors.white),
+            style: TextStyle(fontSize: 14.0, color: Colors.white),
           ),
         ),
         onPressed: () async {

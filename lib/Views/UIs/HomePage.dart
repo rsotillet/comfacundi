@@ -41,8 +41,9 @@ class HomePage extends StatelessWidget {
     return Base(
       headerColor: Theme.of(context).primaryColor,
       bottomBarColor: Theme.of(context).primaryColorDark,
-      title: '¡Hola!\n¡Estos Servicios son para ti y tu familia!',
+      title: '¡Hola!\nEstos Servicios son para ti y tu familia',
       withIcon: false,
+      heightBody: MediaQuery.of(context).size.height * .8,
       withHomeButton: false,
       child: Stack(children: <Widget>[
         Positioned(
@@ -64,10 +65,10 @@ class HomePage extends StatelessWidget {
               ),
               color: Colors.white),
           child: Padding(
-            padding: EdgeInsets.only(top: 30),
+            padding: EdgeInsets.only(top: 20),
             child: SingleChildScrollView(
               child: Wrap(
-                runSpacing: -30,
+                runSpacing: -33,
                 alignment: WrapAlignment.center,
                 crossAxisAlignment: WrapCrossAlignment.center,
                 children: <Widget>[
@@ -369,8 +370,6 @@ class HomePage extends StatelessWidget {
               ),
             ),
           ),
-          width: MediaQuery.of(context).size.width,
-          height: MediaQuery.of(context).size.height * 0.75,
         ),
         Positioned(
           top: 0,

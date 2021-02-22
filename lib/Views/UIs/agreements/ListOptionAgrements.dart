@@ -36,11 +36,11 @@ class ListOptionAgreementsPage extends StatelessWidget {
                               hero: element.hero,
                               children: element.children));
                     },
-                    title: Text(
-                      element.title.toUpperCase(),
-                      style:
-                          TextStyle(color: Theme.of(context).primaryColorDark),
-                    ),
+                    title: Text(element.title.toUpperCase(),
+                        style: TextStyle(
+                          color: Theme.of(context).primaryColorDark,
+                          fontSize: 14,
+                        )),
                     trailing: Container(
                       height: 50,
                       width: 50,

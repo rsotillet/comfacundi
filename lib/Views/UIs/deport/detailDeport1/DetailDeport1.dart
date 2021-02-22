@@ -44,7 +44,7 @@ class DetailDeport1 extends StatelessWidget {
                     height: 10,
                   ),
                   LaunchButton(
-                    text: 'Mas Información'.toUpperCase(),
+                    text: 'Más Información'.toUpperCase(),
                     url: settings.url,
                   ),
                   SizedBox(

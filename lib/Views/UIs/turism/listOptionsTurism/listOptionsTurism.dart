@@ -78,7 +78,10 @@ class _Listitems extends StatelessWidget {
           onTap: function,
           title: Text(
             title.toUpperCase(),
-            style: TextStyle(color: Color.fromRGBO(0, 40, 82, 1)),
+            style: TextStyle(
+              color: Theme.of(context).primaryColorDark,
+              fontSize: 14,
+            ),
           ),
           trailing: Container(
             height: 50,
@@ -95,7 +98,7 @@ class _Listitems extends StatelessWidget {
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 8.0),
           child: Divider(
-            color: Color.fromRGBO(0, 40, 82, .5),
+            color: Theme.of(context).canvasColor,
           ),
         ),
       ],

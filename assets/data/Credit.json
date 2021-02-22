@@ -116,7 +116,7 @@
             "child": {
                 "title": "¡LÍNEA DE CRÉDITO PARA LA COMPRA DEL CARRO DE TUS SUEÑOS!",
                 "subtitle": "Haz realidad el sueño de movilizarte.",
-                "description": "• Prestamos hasta 60 SMMLV (2020 equivale a $52.668.180) y plazo hasta 60 cuotas\n• Financiación hasta en un 80% del valor del vehículo\n• Prenda con tenencia a favor de COMFACUNDI\n• Descuento por libranza\n• Aplica para modelos de hasta 5 años de antigüedad\nNota: Comfacundi podrá eximir de pignoración a los préstamos otorgados para compra de vehículo menores o iguales a 6 SMMLV (equivalente a $ 5,266,818 para el 2020)\nSe constituirá póliza todo riesgo con Comfacundi como benefciario",
+                "description": "• Prestamos hasta 60 SMMLV (2020 equivale a $52.668.180) y plazo hasta 60 cuotas\n• Financiación hasta en un 80% del valor del vehículo\n• Prenda con tenencia a favor de COMFACUNDI\n• Descuento por libranza\n• Aplica para modelos de hasta 5 años de antigüedad\nNota: Comfacundi podrá eximir de pignoración a los préstamos otorgados para compra de vehículo menores o iguales a 6 SMMLV (equivalente a $ 5,266,818 para el 2020)\nSe constituirá póliza todo riesgo con Comfacundi como beneficiario",
                 "url": "https://www.comfacundi.com.co/credito/#creditos2",
                 "TM": {
                     "A": "0,85%",
@@ -143,7 +143,7 @@
             "child": {
                 "title": "¡A TU ALCANCE MOTO NUEVA!",
                 "subtitle": "El préstamo para moto que buscas, lo financiamos a cuotas tan rápido como tú lo deseas.",
-                "description": "• Financiamos hasta el 100% de la motocicleta\n• Prestamos hasta 15 SMMLV (2020 equivale a $13,167,045) \n• Plazo hasta 60 cuotas\n• Prenda con tenencia a favor de COMFACUNDI\nNota: Comfacundi podrá eximir de pignoración a los préstamos otorgados para compra de motocicleta menores o iguales a 4 SMMLV equivalentes para el 2020 a $ 3,511,212.\nSe constituirá póliza todo riesgo con Comfacundi como benefciario ",
+                "description": "• Financiamos hasta el 100% de la motocicleta\n• Prestamos hasta 15 SMMLV (2020 equivale a $13,167,045) \n• Plazo hasta 60 cuotas\n• Prenda con tenencia a favor de COMFACUNDI\nNota: Comfacundi podrá eximir de pignoración a los préstamos otorgados para compra de motocicleta menores o iguales a 4 SMMLV equivalentes para el 2020 a $ 3,511,212.\nSe constituirá póliza todo riesgo con Comfacundi como beneficiario ",
                 "url": "https://www.comfacundi.com.co/credito/#creditos2",
                 "TM": {
                     "A": "1,33%",
@@ -163,13 +163,13 @@
             }
         },
         {
-            "title": "Audio y video",
-            "subtitle": "Audio y video",
+            "title": "Tecnología y Cómputo",
+            "subtitle": "Tecnología y Cómputo",
             "hero": "video",
             "icon": "assets/svg/camara.svg",
             "child": {
-                "title": "¡LA TECNOLOGÍA DE AUDIO Y VIDEO A TU ALCANCE!",
-                "subtitle": "Recursos para compra de equipos de audio, video y tecnología.",
+                "title": "¡LA TECNOLOGÍA Y CÓMPUTO A TU ALCANCE!",
+                "subtitle": "Recursos para compra de equipos de tecnología.",
                 "description": "• Prestamos máximo hasta 10 SMMLV (2020 equivale a $8.778.030) \n• Plazo desde 3 hasta 24 meses\n• Sin codeudor\n• Desembolso en 72 horas\n• Descuento por libranza",
                 "url": "https://www.comfacundi.com.co/credito/#creditos2",
                 "TM": {
@@ -224,7 +224,7 @@
             "child": {
                 "title": "¡TU SALUD ES IMPORTANTE PARA NOSOTROS!",
                 "subtitle": "Recursos para financiar cirugías y procedimientos estéticos y odontológicos.",
-                "description": "• Financiamos hasta el 100% del procedimiento\n• Prestamos son codeudor hasta 15 SMMLV (2020 equivale a $13,167,045)\n• Monto máximo con codeudor hasta 20 SMMLV (2020 equivale a $17,556,060) \n• Plazo hasta 24 cuotas\n• Descuento por libranza",
+                "description": "• Financiamos hasta el 100% del procedimiento\n• Prestamos sin codeudor hasta 15 SMMLV (2020 equivale a $13,167,045)\n• Monto máximo con codeudor hasta 20 SMMLV (2020 equivale a $17,556,060) \n• Plazo hasta 24 cuotas\n• Descuento por libranza",
                 "url": "https://www.comfacundi.com.co/credito/#creditos2",
                 "TM": {
                     "A": "0,83%",
@@ -271,40 +271,13 @@
             }
         },
         {
-            "title": "Tecnología",
-            "subtitle": "Tecnología",
-            "hero": "tecnologia",
-            "icon": "assets/svg/tecnologia.svg",
-            "child": {
-                "title": "¡LA TECNOLOGíA A TU ALCANCE!",
-                "subtitle": "Para compra de tecnología puedes acceder a:",
-                "description": "• Prestamos máximo hasta 10 SMMLV (2020 equivale a $ 8.778.030) plazo desde 3 hasta 24 cuotas\n• Sin codeudor\n• Desembolso en 72 horas\n• Descuento por libranza\n• Se anexa cotización del producto",
-                "url": "https://www.comfacundi.com.co/credito/#creditos2",
-                "TM": {
-                    "A": "0,83%",
-                    "B": "10,0%",
-                    "C": "10,5%"
-                },
-                "TN": {
-                    "A": "-",
-                    "B": "-",
-                    "C": "-"
-                },
-                "TEA": {
-                    "A": "-",
-                    "B": "-",
-                    "C": "-"
-                }
-            }
-        },
-        {
             "title": "Ecomovilidad",
             "subtitle": "Ecomovilidad",
             "hero": "ecomovilidad",
             "icon": "assets/svg/ecomovilidad.svg",
             "child": {
                 "title": "¡AHORA APOYAMOS LA ECOMOVILIDAD!",
-                "subtitle": "Para ecomovilidad puedes acceder a:",
+                "subtitle": "Recursos para compra de bicicletas, patines y patinetas:",
                 "description": "• Ser afiliado Comfacundi mínimo 3 meses\n• Tasas de Interés todas las categorías del 0,85%\n• Prestamos máximo hasta 15 SMMLV (2020 equivale a $ 13.167.045) hasta 24 meses\n• Desembolso directamente al proveedor",
                 "url": "https://www.comfacundi.com.co/credito/#creditos2",
                 "TM": {

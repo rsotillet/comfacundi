@@ -1,5 +1,5 @@
 import 'package:comfacundi_app/Blocs/simple_bloc_delegate.dart';
-import 'package:comfacundi_app/Routers/Router.dart';
+import 'package:comfacundi_app/Routers/Router.dart' as r;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -23,7 +23,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Comfacundi',
       initialRoute: '/',
-      onGenerateRoute: (settings) => Router.generateRoute(settings),
+      onGenerateRoute: (settings) => r.Router.generateRoute(settings),
     );
   }
 }

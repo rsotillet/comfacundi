@@ -267,7 +267,7 @@ class DetailSubsidy extends StatelessWidget {
                   ),
                   if (settings.url != "-")
                     LaunchButton(
-                      text: 'Mas Información'.toUpperCase(),
+                      text: 'Más Información'.toUpperCase(),
                       url: settings.url,
                     ),
                   SizedBox(

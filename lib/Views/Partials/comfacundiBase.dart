@@ -15,6 +15,7 @@ class Base extends StatelessWidget {
   final bool withIcon;
   final bool withHomeButton;
   final DecorationImage decorationImage;
+  final double heightBody;
 
   const Base({
     Key key,
@@ -29,6 +30,7 @@ class Base extends StatelessWidget {
     this.withIcon: true,
     this.withHomeButton: true,
     this.decorationImage,
+    this.heightBody: 0.0,
   }) : super(key: key);
 
   @override
@@ -96,7 +98,9 @@ class Base extends StatelessWidget {
                             image: decorationImage,
                             color: containerColor),
                         width: MediaQuery.of(context).size.width,
-                        height: MediaQuery.of(context).size.height * 0.75,
+                        height: (heightBody == 0.0)
+                            ? MediaQuery.of(context).size.height * .75
+                            : heightBody,
                         child: Padding(
                           padding: EdgeInsets.only(bottom: 30),
                           child: child,
@@ -168,22 +172,22 @@ class Base extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.end,
                   children: <Widget>[
                     Padding(
-                      padding: EdgeInsets.only(bottom: 5, right: 5),
+                      padding: EdgeInsets.only(bottom: 5),
                       child: Text(
-                        'Servicio\nal cliente',
+                        'Servicio\nal Cliente',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                             fontSize: 10, color: Color.fromRGBO(0, 40, 82, 1)),
                       ),
                     ),
                     Container(
-                      height: 80,
+                      height: 70,
                       width: 50,
                       child: Hero(
                         tag: 'support',
                         child: SvgPicture.asset(
                           'assets/svg/at_cliente.svg',
-                          fit: BoxFit.cover,
+                          fit: BoxFit.contain,
                         ),
                       ),
                     )

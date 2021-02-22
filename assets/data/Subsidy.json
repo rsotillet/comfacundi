@@ -14,7 +14,7 @@
                     "child": [
                         {
                             "title": "Subsidio Ordinario",
-                            "subtitle": "¡UN APOYO EN EL SUBSIDIO ORDINARIO!",
+                            "subtitle": "¡SUBSIDIO ORDINARIO!",
                             "detail": "Con el fin de aliviar la carga económica que representa el sostenimiento de la familia, el subsidio familiar en dinero o cuota monetaria es una suma que se paga mensualmente a los trabajadores de medianos y menores ingresos, por cada una de las personas que tenga a su cargo y que tengan derecho al mismo.\n\nLa Superintendencia del Subsidio Familiar mediante la Resolución No.0026 del 30 de enero de 2020, estableció el valor de la cuota monetaria para el año 2020 en el departamento de Cundinamarca, el valor de la cuota familiar ordinaria por beneficiario es de $36.030 (treinta y seis mil treinta pesos pesos M/Cte).",
                             "detail2": "*Para los afiliados que residen en municipios donde no hay presencia de almacenes Carulla, Éxito y Surtimax, con previa solicitud de la empresa donde trabajen a COMFACUNDI, podrán retirar el subsidio familiar en cualquier punto de Efecty presentando el documento de identificación.",
                             "withBg": false,
@@ -134,7 +134,7 @@
         },
         {
             "title": "Subsidio Educativo",
-            "subtitle": "¡UN APOYO EN EL SUBSIDIO EDUCATIVO!",
+            "subtitle": "¡SUBSIDIO EDUCATIVO!",
             "icon": "assets/svg/s_educativo2.svg",
             "withBg": true,
             "tag": "s_educativo",

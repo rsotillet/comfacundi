@@ -53,6 +53,7 @@ class ListOptionDeportPage extends StatelessWidget {
                       element.title.toUpperCase(),
                       style: TextStyle(
                         color: Theme.of(context).primaryColorDark,
+                        fontSize: 14,
                       ),
                     ),
                     trailing: Container(

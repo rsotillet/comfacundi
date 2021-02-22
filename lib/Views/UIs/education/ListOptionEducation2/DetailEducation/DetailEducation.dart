@@ -115,15 +115,14 @@ class _DetailEducationState extends State<DetailEducation> {
                                       children: <Widget>[
                                         Container(
                                           decoration: BoxDecoration(
-                                              borderRadius:
-                                                  BorderRadiusDirectional.all(
-                                                Radius.circular(20),
-                                              ),
                                               image: DecorationImage(
-                                                image: CacheImage(Urls.images +
-                                                    element.picture),
-                                              )),
-                                          height: 150,
+                                            image: CacheImage(
+                                                Urls.images + element.picture),
+                                          )),
+                                          height: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              .12,
                                         ),
                                         Text(element.title,
                                             style: TextStyle(
@@ -142,8 +141,8 @@ class _DetailEducationState extends State<DetailEducation> {
                             ],
                           ),
                         if (widget.settings.url != "-")
-                          LaunchButton(
-                              text: 'Mas Información'.toUpperCase(),
+                          LaunchButton( 
+                              text: 'Más Información'.toUpperCase(),
                               url: widget.settings.url),
                         SizedBox(
                           height: 5,
