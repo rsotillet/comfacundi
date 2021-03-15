@@ -54,7 +54,7 @@ class AgencyData {
     aligment1 = json['aligment1'];
     aligment2 = json['aligment2'];
     if (json['children'] != null) {
-      children = new List<Children>();
+      children = [];
       json['children'].forEach((v) {
         children.add(new Children.fromJson(v));
       });
@@ -100,7 +100,7 @@ class Children {
     icon2 = json['icon2'];
     hero = json['hero'];
     if (json['children1'] != null) {
-      children1 = new List<Children1>();
+      children1 = [];
       json['children1'].forEach((v) {
         children1.add(new Children1.fromJson(v));
       });
@@ -130,7 +130,7 @@ class Children1 {
   Children1.fromJson(Map<String, dynamic> json) {
     title = json['title'];
     if (json['child'] != null) {
-      child = new List<Child>();
+      child = [];
       json['child'].forEach((v) {
         child.add(new Child.fromJson(v));
       });
@@ -270,7 +270,7 @@ class HotelData {
     aligment1 = json['aligment1'];
     aligment2 = json['aligment2'];
     if (json['hotels'] != null) {
-      hotels = new List<Hotels>();
+      hotels = [];
       json['hotels'].forEach((v) {
         hotels.add(new Hotels.fromJson(v));
       });

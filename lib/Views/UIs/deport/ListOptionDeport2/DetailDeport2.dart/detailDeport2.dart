@@ -229,7 +229,7 @@ class DetailDeport2 extends StatelessWidget {
           })
         ],
       );
-    } else {
+    } else if ((settings.child.type == "u")) {
       // u-Unido?
       return Column(
         children: <Widget>[
@@ -252,21 +252,95 @@ class DetailDeport2 extends StatelessWidget {
           ),
           _buildUnitHead(),
           ...settings.child.products.map((el) {
+            bool round = settings.child.products.indexOf(el) ==
+                (settings.child.products.length - 1);
             var arr = [el.title, el.a, el.b, el.c, el.d, el.agreement];
             return Row(children: <Widget>[
               ...arr.map((element) {
                 int aux = arr.indexOf(element);
                 if (aux == 0) {
                   return _buildBody(
-                      texts: [element], round: false, fontSize: 5);
+                      texts: [element], round: round, fontSize: 5);
                 } else {
-                  return _buildBody(texts: [element], round: false);
+                  return _buildBody(texts: [element], round: round);
                 }
               })
             ]);
           })
         ],
       );
+    } else {
+      // o-Otro
+      if (settings.child.products.length == 2)
+        return Column(
+          children: <Widget>[
+            Center(
+              child: Container(
+                decoration: BoxDecoration(
+                    border: Border.all(color: Colors.white, width: 2)),
+                child: Padding(
+                  padding:
+                      const EdgeInsets.symmetric(vertical: 5, horizontal: 20),
+                  child: Text(
+                    'Tarifas'.toUpperCase(),
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            Row(
+              children: [
+                Expanded(
+                  child: Container(
+                    height: 40,
+                    decoration: BoxDecoration(
+                        borderRadius: BorderRadius.only(
+                            topLeft: Radius.circular(10),
+                            topRight: Radius.circular(10)),
+                        color: Color.fromRGBO(111, 203, 219, 1)),
+                    child: Center(
+                        child: Text(
+                      'AFILIADO',
+                      style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                          fontSize: 10,
+                          fontFamily: 'Montserrat'),
+                    )),
+                  ),
+                ),
+                Expanded(
+                  child: Container(
+                    height: 40,
+                    decoration: BoxDecoration(
+                        borderRadius: BorderRadius.only(
+                            topLeft: Radius.circular(10),
+                            topRight: Radius.circular(10)),
+                        color: Color.fromRGBO(186, 219, 161, 1)),
+                    child: Center(
+                        child: Text(
+                      'PARTICULAR',
+                      style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                          fontSize: 10,
+                          fontFamily: 'Montserrat'),
+                    )),
+                  ),
+                )
+              ],
+            ),
+            Row(
+              children: [
+                ...settings.child.products
+                    .map((el) => _buildBody(texts: [el.a], round: true))
+              ],
+            )
+          ],
+        );
     }
   }
 

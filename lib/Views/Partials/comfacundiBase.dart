@@ -88,7 +88,7 @@ class Base extends StatelessWidget {
               Positioned(
                 bottom: 0,
                 child: Stack(
-                  overflow: Overflow.visible,
+                  clipBehavior: Clip.none,
                   children: <Widget>[
                     Container(
                         decoration: BoxDecoration(

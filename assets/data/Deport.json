@@ -1,142 +1,166 @@
 {
-    "items": [
+  "items": [
+    {
+      "title": "Eventos",
+      "subtitle": "¡CREAMOS LA MEJOR EXPERIENCIA!",
+      "icon": "assets/svg/calendario.svg",
+      "tag": "calendario",
+      "detail": "Planeamos tus requerimientos para desarrollar una actividad de calidad a sus invitados, compartir con tus compañeros momentos de crecimiento laboral, capacitaciones, generando bienestar para su equipo de trabajo, familias y directivos. Salidas empresariales, Asambleas, fiestas temáticas y despedidas de año, aniversarios y/o actividades institucionales.\n\nLlevamos tu evento a tu empresa o entregamos espacios acordes a las finalidades y necesidades del mismo.",
+      "url": "https://www.comfacundi.com.co/eventos-comfacundi/"
+    },
+    {
+      "title": "Recreación",
+      "subtitle": "¡TU RECREACIÓN, TU BIENESTAR!",
+      "icon": "assets/svg/montanero.svg",
+      "tag": "montanero",
+      "detail": "Tenemos un portafolio de actividades recreativas familiares y empresariales para que puedas, o diseñamos actividades acorde a sus necesidades tiempos pensando en generar espacios de bienestar, recreación y descanso a colaboradores y familias.\n\nSalidas recreativas, Caminatas, visitas parques temáticos, Torneos recreo-deportivos, Empresariales, Sumar Mach, jornadas de actividad física, ferias, vacaciones recreativas, Camping, Pasadías en centros recreativos.",
+      "url": "https://www.comfacundi.com.co/recreacion/"
+    },
+    {
+      "title": "Torneos",
+      "subtitle": "¡TORNEOS DEPORTIVOS PARA TODOS!",
+      "icon": "assets/svg/trofeo.svg",
+      "tag": "trofeo",
+      "detail": "Contamos con una amplia gama organizacional de eventos deportivos en modalidades de conjunto como fútbol, fútbol 5, baloncesto, voleibol, tejo, minitejo y bolos, al igual que contamos con deportes individuales como tenis, ajedrez, tenis de mesa, rana y billar.\n\nAdemás, asesoramos todos tus juegos internos y desarrollamos planes a la medida de tu empresa.",
+      "url": "https://www.comfacundi.com.co/torneos/"
+    },
+    {
+      "title": "Escuelas deportivas",
+      "subtitle": "¡ESCUELAS DEPORTIVAS PARA EJERCITARSE!",
+      "icon": "assets/svg/arco_fut.svg",
+      "tag": "arco_fut",
+      "detail": "Contamos con formación deportiva en natación, Futbol 11, bolos, Tenis, Baloncesto y Artes marciales para niños, adolescentes, jóvenes y adultos con el propósito de generar prácticas y experiencias saludables a sus  colaboradores y familias. ",
+      "url": "https://www.comfacundi.com.co/futbol/"
+    },
+    {
+      "title": "Zona recreativa",
+      "subtitle": "¡EXCELENTES ZONAS RECREATIVAS!",
+      "icon": "assets/svg/natacion.svg",
+      "tag": "natacion",
+      "detail": "Contamos con un espacio ubicado en Bogotá, en la Calle 53 # 10 – 39, Primer Piso, en donde podrás encontrar una piscina climatizada para nuestros afiliados, complementada con los servicios de sauna, turco y prácticas dirigidas por profesionales en nuestras zona de cardio, zona de musculación así como un entrenamiento funcional. Además contamos con tarifas especiales y horarios flexibles orientados al bienestar y la salud física. Podrá contar con diferentes espacios para su acondicionamiento físico y cuidado personal.",
+      "url": "",
+      "children": [
         {
-            "title": "Eventos",
-            "subtitle": "¡CREAMOS LA MEJOR EXPERIENCIA!",
-            "icon": "assets/svg/calendario.svg",
-            "tag": "calendario",
-            "detail": "Planeamos tus requerimientos para desarrollar una actividad de calidad a sus invitados, compartir con tus compañeros momentos de crecimiento laboral, capacitaciones, generando bienestar para su equipo de trabajo, familias y directivos. Salidas empresariales, Asambleas, fiestas temáticas y despedidas de año, aniversarios y/o actividades institucionales.\n\nLlevamos tu evento a tu empresa o entregamos espacios acordes a las finalidades y necesidades del mismo.",
-            "url": "https://www.comfacundi.com.co/eventos-comfacundi/"
+          "title": "Piscina",
+          "subtitle": "¡LA NATACIÓN, UN DEPORTE COMPLETO!",
+          "description": "Servicios de matronatación, práctica libre, tiquetera y cursos para desarrollo de estilos como, libre, espalda, mariposa y pecho.\n\nAlquiler de carriles y para eventos especiales en medio acuáticos.",
+          "type": "s",
+          "products": [
+            {
+              "title": "TARIFAS - CURSO DE 4 CLASES",
+              "a": "$32.100",
+              "b": "$45.000",
+              "c": "$64.200",
+              "d": "$73.900",
+              "agreement": "$70.000"
+            },
+            {
+              "title": "TARIFAS - CURSO DE 8 CLASES",
+              "a": "$57.800",
+              "b": "$80.900",
+              "c": "$115.600",
+              "d": "$132.900",
+              "agreement": "$127.200"
+            },
+            {
+              "title": "PRÁCTICA LIBRE NATACIÓN",
+              "a": "$6.300",
+              "b": "$8.800",
+              "c": "$12.500",
+              "d": "$14.400",
+              "agreement": "$13.800"
+            },
+            {
+              "title": "TIQUETERA NACIONAL -  10 SES",
+              "a": "$53.000",
+              "b": "$74.200",
+              "c": "$106.200",
+              "d": "$121.800",
+              "agreement": "$116.500"
+            }
+          ]
         },
         {
-            "title": "Recreación",
-            "subtitle": "¡TU RECREACIÓN, TU BIENESTAR!",
-            "icon": "assets/svg/montanero.svg",
-            "tag": "montanero",
-            "detail": "Tenemos un portafolio de actividades recreativas familiares y empresariales para que puedas, o diseñamos actividades acorde a sus necesidades tiempos pensando en generar espacios de bienestar, recreación y descanso a colaboradores y familias.\n\nSalidas recreativas, Caminatas, visitas parques temáticos, Torneos recreo-deportivos, Empresariales, Sumar Mach, jornadas de actividad física, ferias, vacaciones recreativas, Camping, Pasadías en centros recreativos.",
-            "url": "https://www.comfacundi.com.co/recreacion/"
+          "title": "Sauna y Turco",
+          "subtitle": "¡RELAJACIÓN EN SAUNA Y TURCO!",
+          "description": "Actividad para mayores de 17 años que complementa la actividad física o simplemente para relajación y descanso del cuerpo y la mente.\n\nCámaras con vapor seco y húmedo acompañado con hierbas aromáticas para relajación de nuestros usuarios.",
+          "type": "u",
+          "products": [
+            {
+              "title": "PRÁCTICA LIBRE 2 HORAS",
+              "a": "$6.300",
+              "b": "$8.800",
+              "c": "$12.500",
+              "d": "$14.400",
+              "agreement": "$13.800"
+            },
+            {
+              "title": "PRÁCTICA INTEGRAL 4 HORAS (+PISCINA y GYM)",
+              "a": "$13.000",
+              "b": "$18.200",
+              "c": "$25.900",
+              "d": "$29.800",
+              "agreement": "$28.500"
+            }
+          ]
         },
         {
-            "title": "Torneos",
-            "subtitle": "¡TORNEOS DEPORTIVOS PARA TODOS!",
-            "icon": "assets/svg/trofeo.svg",
-            "tag": "trofeo",
-            "detail": "Contamos con una amplia gama organizacional de eventos deportivos en modalidades de conjunto como fútbol, fútbol 5, baloncesto, voleibol, tejo, minitejo y bolos, al igual que contamos con deportes individuales como tenis, ajedrez, tenis de mesa, rana y billar.\n\nAdemás, asesoramos todos tus juegos internos y desarrollamos planes a la medida de tu empresa.",
-            "url": "https://www.comfacundi.com.co/torneos/"
+          "title": "Gimnasio",
+          "subtitle": "¡PONTE EN FORMA EN EL GYM!",
+          "description": "Contamos con acompañamiento constante para el desarrollo de programas de entrenamiento acordeasus necesidades, partiendo desde la valoración, tiempos para su desarrollo físico y motriz, trabajos semi- personalizados.\n\nServicios mensuales, y trimestrales acompañados con ingreso a las cámaras de vapor. Rutinas que pueden ser acompañadas sumando el espacio de piscina según programa de entrenamiento.",
+          "type": "u",
+          "products": [
+            {
+              "title": "GYM DÍA (MAR. A VIE.)",
+              "a": "$3.700",
+              "b": "$5.200",
+              "c": "$7.400",
+              "d": "$8.600",
+              "agreement": "$8.200"
+            },
+            {
+              "title": "GYM BÁSICO MES",
+              "a": "$32.600",
+              "b": "$45.600",
+              "c": "$65.100",
+              "d": "$74.900",
+              "agreement": "$71.600"
+            },
+            {
+              "title": "GYM TRIMESTRAL",
+              "a": "$83.000",
+              "b": "$116.200",
+              "c": "$166.000",
+              "d": "$190.900",
+              "agreement": "$182.600"
+            }
+          ]
         },
         {
-            "title": "Escuelas deportivas",
-            "subtitle": "¡ESCUELAS DEPORTIVAS PARA EJERCITARSE!",
-            "icon": "assets/svg/arco_fut.svg",
-            "tag": "arco_fut",
-            "detail": "Contamos con formación deportiva en natación, Futbol 11, bolos, Tenis, Baloncesto y Artes marciales para niños, adolescentes, jóvenes y adultos con el propósito de generar prácticas y experiencias saludables a sus  colaboradores y familias. ",
-            "url": "https://www.comfacundi.com.co/futbol/"
-        },
-        {
-            "title": "Zona recreativa",
-            "subtitle": "¡EXCELENTES ZONAS RECREATIVAS!",
-            "icon": "assets/svg/natacion.svg",
-            "tag": "natacion",
-            "detail": "Contamos con un espacio ubicado en Bogotá, en la Calle 53 # 10 – 39, Primer Piso, en donde podrás encontrar una piscina climatizada para nuestros afiliados, complementada con los servicios de sauna, turco y prácticas dirigidas por profesionales en nuestras zona de cardio, zona de musculación así como un entrenamiento funcional. Además contamos con tarifas especiales y horarios flexibles orientados al bienestar y la salud física. Podrá contar con diferentes espacios para su acondicionamiento físico y cuidado personal.",
-            "url": "",
-            "children": [
-                {
-                    "title": "Piscina",
-                    "subtitle": "¡LA NATACIÓN, UN DEPORTE COMPLETO!",
-                    "description": "Servicios de matronatación, práctica libre, tiquetera y cursos para desarrollo de estilos como, libre, espalda, mariposa y pecho.\n\nAlquiler de carriles y para eventos especiales en medio acuáticos.",
-                    "type": "s",
-                    "products": [
-                        {
-                            "title": "TARIFAS - CURSO DE 4 CLASES",
-                            "a": "$32.100",
-                            "b": "$45.000",
-                            "c": "$64.200",
-                            "d": "$73.900",
-                            "agreement": "$70.000"
-                        },
-                        {
-                            "title": "TARIFAS - CURSO DE 8 CLASES",
-                            "a": "$57.800",
-                            "b": "$80.900",
-                            "c": "$115.600",
-                            "d": "$132.900",
-                            "agreement": "$127.200"
-                        },
-                        {
-                            "title": "PRÁCTICA LIBRE NATACIÓN",
-                            "a": "$6.300",
-                            "b": "$8.800",
-                            "c": "$12.500",
-                            "d": "$14.400",
-                            "agreement": "$13.800"
-                        },
-                        {
-                            "title": "TIQUETERA NACIONAL -  10 SES",
-                            "a": "$53.000",
-                            "b": "$74.200",
-                            "c": "$106.200",
-                            "d": "$121.800",
-                            "agreement": "$116.500"
-                        }
-                    ]
-                },
-                {
-                    "title": "Sauna y Turco",
-                    "subtitle": "¡RELAJACIÓN EN SAUNA Y TURCO!",
-                    "description": "Actividad para mayores de 17 años que complementa la actividad física o simplemente para relajación y descanso del cuerpo y la mente.\n\nCámaras con vapor seco y húmedo acompañado con hierbas aromáticas para relajación de nuestros usuarios.",
-                    "type": "u",
-                    "products": [
-                        {
-                            "title": "PRÁCTICA LIBRE 2 HORAS",
-                            "a": "$6.300",
-                            "b": "$8.800",
-                            "c": "$12.500",
-                            "d": "$14.400",
-                            "agreement": "$13.800"
-                        },
-                        {
-                            "title": "PRÁCTICA INTEGRAL 4 HORAS (+PISCINA y GYM)",
-                            "a": "$13.000",
-                            "b": "$18.200",
-                            "c": "$25.900",
-                            "d": "$29.800",
-                            "agreement": "$28.500"
-                        }
-                    ]
-                },
-                {
-                    "title": "Gimnasio",
-                    "subtitle": "¡PONTE EN FORMA EN EL GYM!",
-                    "description": "Contamos con acompañamiento constante para el desarrollo de programas de entrenamiento acordeasus necesidades, partiendo desde la valoración, tiempos para su desarrollo físico y motriz, trabajos semi- personalizados.\n\nServicios mensuales, y trimestrales acompañados con ingreso a las cámaras de vapor. Rutinas que pueden ser acompañadas sumando el espacio de piscina según programa de entrenamiento.",
-                    "type": "u",
-                    "products": [
-                        {
-                            "title": "GYM DÍA (MAR. A VIE.)",
-                            "a": "$3.700",
-                            "b": "$5.200",
-                            "c": "$7.400",
-                            "d": "$8.600",
-                            "agreement": "$8.200"
-                        },
-                        {
-                            "title": "GYM BÁSICO MES",
-                            "a": "$32.600",
-                            "b": "$45.600",
-                            "c": "$65.100",
-                            "d": "$74.900",
-                            "agreement": "$71.600"
-                        },
-                        {
-                            "title": "GYM TRIMESTRAL",
-                            "a": "$83.000",
-                            "b": "$116.200",
-                            "c": "$166.000",
-                            "d": "$190.900",
-                            "agreement": "$182.600"
-                        }
-                    ]
-                }
-            ]
+          "title": "Acuafiestas",
+          "subtitle": "¡CELEBRA CON LAS ACUAFIESTAS!",
+          "description": "Te invitamos a participar de nuestras Acuafestas para que tengas una celebración inolvidable, en un ambiente acuático, alegre y divertido, rodeado de los que más te quieren. Aforo de 8 niños - 4 Adultos\n\nINCLUYE (Tres horas de piscina + salvavidas + elementos recreativos, música e iluminación) Adicionales (refrigerio + decoración + torta de Cumpleaños).",
+          "type": "o",
+          "products": [
+            {
+                "title": "AFILIADO",
+                "a": "$245,100",
+                "b": "",
+                "c": "",
+                "d": "",
+                "agreement": ""
+              },
+              {
+                "title": "PARTICULAR",
+                "a": "$256,300",
+                "b": "",
+                "c": "",
+                "d": "",
+                "agreement": ""
+              }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

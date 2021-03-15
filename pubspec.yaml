@@ -1,9 +1,9 @@
 name: comfacundi_app
 description: A new Flutter project.
 
-version: 1.0.0+1
+version: 1.0.1+2
 
-environment:
+environment: 
   sdk: ">=2.8.0 <3.0.0"
 
 dependencies:
@@ -19,7 +19,7 @@ dependencies:
   meta: ^1.1.8
   flutter_svg: ^0.19.0
   flutter_circular_text: ^0.3.0
-  url_launcher: ^5.5.0
+  url_launcher: ^5.7.10
   auto_size_text: ^2.1.0
   video_player: 0.10.12+3
   cache_image: ^1.0.5 
