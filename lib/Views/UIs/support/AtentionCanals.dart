@@ -115,8 +115,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url = 'https://www.comfacundi.com.co/chat.html';
                         if (await canLaunch(url)) {
@@ -138,8 +137,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url = 'https://www.facebook.com/comfacundi';
                         if (await canLaunch(url)) {
@@ -161,8 +159,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url = 'https://twitter.com/COMFACUNDI';
                         if (await canLaunch(url)) {
@@ -184,8 +181,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url =
                             'https://www.instagram.com/comfacundioficial/';

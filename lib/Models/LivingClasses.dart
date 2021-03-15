@@ -5,7 +5,7 @@ class Living {
 
   Living.fromJson(Map<String, dynamic> json) {
     if (json['items'] != null) {
-      items = new List<Items>();
+      items = [];
       json['items'].forEach((v) {
         items.add(new Items.fromJson(v));
       });
@@ -30,7 +30,7 @@ class Items {
   Items.fromJson(Map<String, dynamic> json) {
     title = json['title'];
     if (json['children'] != null) {
-      children = new List<Children>();
+      children = [];
       json['children'].forEach((v) {
         children.add(new Children.fromJson(v));
       });

@@ -88,7 +88,6 @@ class Base extends StatelessWidget {
               Positioned(
                 bottom: 0,
                 child: Stack(
-                  overflow: Overflow.visible,
                   children: <Widget>[
                     Container(
                         decoration: BoxDecoration(

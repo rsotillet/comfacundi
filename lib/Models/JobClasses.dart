@@ -35,7 +35,7 @@ class Vacants {
     detail = json['detail'];
     url = json['url'];
     if (json['child'] != null) {
-      child = new List<Child>();
+      child = [];
       json['child'].forEach((v) {
         child.add(new Child.fromJson(v));
       });
