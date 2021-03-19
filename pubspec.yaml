@@ -17,13 +17,14 @@ dependencies:
   flutter_bloc: 
   equatable: ^1.2.0
   meta: ^1.1.8
-  flutter_svg: ^0.19.0
+  flutter_svg: ^0.19.3
   flutter_circular_text: ^0.3.0
   url_launcher: ^5.5.0
   auto_size_text: ^2.1.0
   video_player: 0.10.12+3
   cache_image: ^1.0.5 
   dynamic_url_image_cache: ^0.0.4
+  #cloud_firestore: ^1.0.1
 
 
 dev_dependencies:
