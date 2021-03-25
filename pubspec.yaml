@@ -24,6 +24,7 @@ dependencies:
   video_player: 0.10.12+3
   cache_image: ^1.0.5 
   dynamic_url_image_cache: ^0.0.4
+  #cloud_firestore: ^1.0.1
 
 
 dev_dependencies:
