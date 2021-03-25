@@ -5,7 +5,7 @@ class Deport {
 
   Deport.fromJson(Map<String, dynamic> json) {
     if (json['items'] != null) {
-      items = new List<Items>();
+      items = [];
       json['items'].forEach((v) {
         items.add(new Items.fromJson(v));
       });
@@ -47,7 +47,7 @@ class Items {
     detail = json['detail'];
     url = json['url'];
     if (json['children'] != null) {
-      children = new List<Children>();
+      children = [];
       json['children'].forEach((v) {
         children.add(new Children.fromJson(v));
       });
@@ -85,7 +85,7 @@ class Children {
     description = json['description'];
     type = json['type'];
     if (json['products'] != null) {
-      products = new List<Products>();
+      products = [];
       json['products'].forEach((v) {
         products.add(new Products.fromJson(v));
       });

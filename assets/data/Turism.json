@@ -1,1152 +1,1000 @@
 {
-    "agencyData": {
-        "icon": "assets/svg/avion.svg",
-        "name": "AGENCIA DE VIAJES",
-        "hero": "agencia",
-        "subtitle": "¡Invertir en viajar es invertir en uno  mismo!",
-        "image": "TurismoC.jpg",
-        "aligment1": -0.3,
-        "aligment2": 5.0,
-        "children": [
-            {
-                "title": "Planes Terrestres Nacionales",
-                "subtitle": "¡Nada mejor que conocer Colombia por tierra!",
-                "icon1": "assets/svg/bus.svg",
-                "icon2": "assets/svg/bus.svg",
-                "hero": "bus",
-                "children1": [
-                    {
-                        "title": "Eje Cafetero",
-                        "child": [
-                            {
-                                "title": "Eje Cafetero",
-                                "subtitle": "¡Disfruta de los paisajes del EJE CAFETERO!",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "EjeCafetero.jpg",
-                                "text1": "Considerado como el segundo destino turístico de Colombia, cuenta con la mayor cantidad de sitios turísticos y atractivos para visitar y disfrutar.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 729,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#ejecafetero"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Recorrido Luces de Medellín",
-                        "child": [
-                            {
-                                "title": "Recorrido luces de Medellín",
-                                "subtitle": "¡El Mágico Alumbrado de MEDELLÍN!",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "AlumbradoMedellin.jpg",
-                                "text1": "Transporte, Alojamiento 1 en Doradal, 2 Noches en Medellín, Alimentación desayunos y cenas, visita a parque temático y Medellín. Salidas programadas: diciembre 05 al 08, 19 al 22, 26 al 29.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 845,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#lucesmedellin"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Feria de Las Flores",
-                        "child": [
-                            {
-                                "title": "Feria de Las Flores",
-                                "subtitle": "¡Aroma y colores en LA FERIA DE LAS FLORES!",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "FeriaFlores.png",
-                                "text1": "Transporte, Alojamiento 3 noches, Desayunos y Cenas, Recorridos por Santa Helena, Guatapé y Medellín",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 850,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#feriadelasflores"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "San Gil",
-                        "child": [
-                            {
-                                "title": "San Gil",
-                                "subtitle": "¡Una aventura extrema en SAN GIL!",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "SanGil.jpg",
-                                "text1": "Alojamiento 3 Noches, Transporte, alimentación desayunos y cenas, visita a Socorro, Barichara, Páramo,Parque Chicamocha y Curiti.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 645,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sangil"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Hacienda Nápoles Rio Claro y Parque Temático",
-                        "child": [
-                            {
-                                "title": "Hacienda Nápoles Rio Claro y Parque Temático",
-                                "subtitle": "¡Maravillate con el PARQUE TEMÁTICO Hacienda Nápoles",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "HaciendaNapoles.jpeg",
-                                "text1": "Alojamiento 2 Noches,Transporte, desayunos, visita a pueblos, parque temático y reserva natural.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 595,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#haciendanapoles"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Nuestro Sur",
-                        "child": [
-                            {
-                                "title": "Nuestro Sur",
-                                "subtitle": "Disfruta de los grandes atractivos turísticos hacia el SUR",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "Pasto.jpg",
-                                "text1": "Transporte, Alojamiento en Popayán, Pasto y Cali, Desayunos y Cenas, entradas a sitios de interés, traslados.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 1,335,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#nuestrosur"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Recorrido Luces Boyacá",
-                        "child": [
-                            {
-                                "title": "Recorrido Luces Boyacá",
-                                "subtitle": "BOYACÁ te da la bienvenida con su RECORRIDO DE LUCES",
-                                "Icon": "assets/svg/bus.svg",
-                                "background": "RecorridoLucesDeBoyaca.jpg",
-                                "text1": "Transporte, visita a corrales, Nobsa, Tibasosa, Duitama, pueblito Boyacense, Puente de Boyacá, asistencia médica y refrigerio.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 150,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#lucesboyaca"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Planes Aéreos Nacionales",
-                "subtitle": "¡Vuela y conoce los Mejores lugares  de Colombia!",
-                "icon1": "assets/svg/avion_n.svg",
-                "icon2": "assets/svg/avion_n.svg",
-                "hero": "avion1",
-                "children1": [
-                    {
-                        "title": "Santa Marta",
-                        "child": [
-                            {
-                                "title": "2020",
-                                "subtitle": "¡SANTA MARTA y sus paradisíacas playas!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "SantaMarta.jpeg",
-                                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 869,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartaaereo"
-                                }
-                            },
-                            {
-                                "title": "2x1",
-                                "subtitle": "¡SANTA MARTA 2x1 navidad, fin de año y reyes!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "SantaMarta.jpeg",
-                                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, asistencia médica traslados aeropuerto - hotel - aeropuerto.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 1,819,000",
-                                    "text2": "Por 2 Personas"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartafin2x1"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Cartagena",
-                        "child": [
-                            {
-                                "title": "2020",
-                                "subtitle": "¡Ciudad romántica y llena de historia CARTAGENA!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "Cartagena.jpg",
-                                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 899,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenaaereo"
-                                }
-                            },
-                            {
-                                "title": "2x1",
-                                "subtitle": "¡CARTAGENA 2x1 navidad fin de año y reyes!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "Cartagena.jpg",
-                                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,099,000",
-                                    "text2": "Por 2 Personas"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenafin2x1"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "San Andrés",
-                        "child": [
-                            {
-                                "title": "San Andrés",
-                                "subtitle": "¡Isla Paradisíaca SAN ANDRÉS!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "SanAndres.jpg",
-                                "text1": "Tiquete aéreo, alojamiento 4 noches, alimentación todo incluido con bar abierto y snacks, tour por la bahía, vuelta a la isla, rocky cay y traslados",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 1,400,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sanandres"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Capurganá",
-                        "child": [
-                            {
-                                "title": "Capurganá",
-                                "subtitle": "¡CAPURGANÁ un paraje tranquilo y escondido!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "Capurgana.jpg",
-                                "text1": "Tiquete aéreo, alojamiento 4 noches, alimentación desayunos, almuerzo y cenas, Servicio de piscina y jacuzzi, Tarjeta de asistencia médica y obsequio. Salidas programadas de lunes a viernes.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,350,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#capurgana"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Amazonas",
-                        "child": [
-                            {
-                                "title": "Amazonas",
-                                "subtitle": "¡AMAZONAS más, que selva, un paraiso!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "Amazonas.jpg",
-                                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos, almuerzo y cenas, Servicio de piscina y jacuzzi, Tarjeta de asistencia médica y obsequio. Salidas programadas de lunes a viernes.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,100,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#amazonas1"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "La Guajira",
-                        "child": [
-                            {
-                                "title": "La Guajira",
-                                "subtitle": "¡Rioacha, desierto y turismo de aventura!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "Rioacha.jpg",
-                                "text1": "Tiquete aéreo , Traslados, Alojamiento 5 noches en Riohacha, Punta Gallinas, Nazaret y Cabo de la Vela, alimentación completa, seguro de viaje.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,990,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#laguajira"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Caño Cristales",
-                        "child": [
-                            {
-                                "title": "Caño Cristales",
-                                "subtitle": "¡Maravillate con los colores de CAÑO CRISTALES!",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "CanoCristales.jpg",
-                                "text1": "Tiquete aéreo , Traslados, Alojamiento 4 noches, Alimentación descrita en el programa, show llanero, ingreso a reservas naturales.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,055,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#canocristales"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Tolú y Coveñas",
-                        "child": [
-                            {
-                                "title": "Tolú y Coveñas",
-                                "subtitle": "TOLÚ Y COVEÑAS disfruta de sus aguas Cristalinas",
-                                "Icon": "assets/svg/avion_n.svg",
-                                "background": "ToluyCovenas.jpg",
-                                "text1": "Tiquete aéreo , Traslados, Alojamiento 2 noches en Tolú, 2 noches en Coveñas, alimentación completa, recorridos a ciénaga de la Caimanera, ruta sabanera, playa blanca y archipielago.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,100,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#tolucovenas"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Planes Aéreos Internacionales",
-                "subtitle": "¡Vuela a donde tu imaginación siempre  te ha llevado!",
-                "icon1": "assets/svg/avion_m.svg",
-                "icon2": "assets/svg/avion_m.svg",
-                "hero": "avion2",
-                "children1": [
-                    {
-                        "title": "Cancún",
-                        "child": [
-                            {
-                                "title": "2020",
-                                "subtitle": "CANCÚN, te enamorarás de sus playas de arena blanca",
-                                "Icon": "assets/svg/avion_m.svg",
-                                "background": "Cancun.jpg",
-                                "text1": "Tiquete aéreo , Traslados, Alojamiento 4 noches, alimentación completa, tarjeta de asistencia médica.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,900,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cancun"
-                                }
-                            },
-                            {
-                                "title": "Cancún fin de año",
-                                "subtitle": "CANCÚN, te enamorarás de sus playas de arena blanca",
-                                "Icon": "assets/svg/avion_m.svg",
-                                "background": "Cancun.jpg",
-                                "text1": "Tiquete aéreo , Traslados, Alojamiento 7 noches y 8 dias, alimentación completa, tarjeta de asistencia médica.",
-                                "price": {
-                                    "text1": "Desde ",
-                                    "price": "USD 1,855",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cancunfin"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Punta Cana o Puente Plata",
-                        "child": [
-                            {
-                                "title": "2020",
-                                "subtitle": "¡PUNTA CANA, con aguas cristalinas, turquesas y cálidas!",
-                                "Icon": "assets/svg/avion_m.svg",
-                                "background": "PuntaCana.jpg",
-                                "text1": "Tiquete aéreo, traslados, alojamiento 7 noches, alimentación todo incluido con bar abierto, snack, tarjeta de asistencia médica, actividades shows de entretenimiento diurno y nocturno.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 3,827,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#puntacana"
-                                }
-                            },
-                            {
-                                "title": "Fin de año",
-                                "subtitle": "¡PUNTA CANA, con aguas cristalinas, turquesas y cálidas!",
-                                "Icon": "assets/svg/avion_m.svg",
-                                "background": "PuntaCana.jpg",
-                                "text1": "Tiquete aéreo, traslados, alojamiento 7 noches, alimentación todo incluido con bar abierto, snack, tarjeta de asistencia médica, actividades shows de entretenimiento diurno y nocturno.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "USD 1,935",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#puntacanafin"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Cuba",
-                        "child": [
-                            {
-                                "title": "Cuba",
-                                "subtitle": "¡CUBA, viaja en el tiempo al ritmo del son cubano",
-                                "Icon": "assets/svg/avion_m.svg",
-                                "background": "Cuba.jpg",
-                                "text1": "Alojamiento 4 noches, Tiquete aéreo, alimentación todo incluido con bar abierto, tarjeta de asistencia médica, snacks, tours y traslados.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,790,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cuba"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Excursiones y Peregrinaciones",
-                "subtitle": "¡Disfruta de grandes actividades jamás  vividas!",
-                "icon1": "assets/svg/bolso.svg",
-                "icon2": "assets/svg/bolso.svg",
-                "hero": "bolso",
-                "children1": [
-                    {
-                        "title": "Turquía",
-                        "child": [
-                            {
-                                "title": "Turquía",
-                                "subtitle": "¡Turquia y dubai!",
-                                "Icon": "assets/svg/bolso.svg",
-                                "background": "Turquia.jpg",
-                                "text1": "Tiquete aéreo, Impuestos aéreos Y 2% de fee bancario.\n\nTURQUÍA: 03 noches en Estambul, 02 noches en Capadocia, 01 noche en Pamukkale, 01 noche Izmir, 01 noche en Pamukkale, 01 noche Canakkale, Traslados aeropuerto-hotel-aeropuerto, guía profesional habla hispana, excursión en Estambul entradas  y visitas.\n\nDUBAI: 04 noches con desayuno Traslados aeropuerto-hotel-aeropuerto, (guía profesional habla hispana, tour de día entero en Abu Dhabi con almuerzo, tour de medio día Dubái clásico), (guía profesional habla inglesa, cena en el crucero Dhow y safari en el desierto con cena) ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 10,290,000",
-                                    "text2": "Por Persona - acomodación doble"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#turquia"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Tierra Santa",
-                        "child": [
-                            {
-                                "title": "Tierra Santa",
-                                "subtitle": "¡En TIERRA SANTA vivirás una experiencia mística!",
-                                "Icon": "assets/svg/bolso.svg",
-                                "background": "TierraSanta.jpg",
-                                "text1": "Tiquete aéreo, guía acompañante durante todo el recorrido, Guías locales para visitas de ciudad, Tarjeta de asistencia médica, Bus de lujo para todo el recorrido, 11 noches de alojamiento, Alimentación y Visitas previstas. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 13,890,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#tierrasanta"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Europa fin de año",
-                        "child": [
-                            {
-                                "title": "Europa fin de año",
-                                "subtitle": "¡Historia, cultura y tradición viaja a EUROPA!",
-                                "Icon": "assets/svg/bolso.svg",
-                                "background": "Europa.jpg",
-                                "text1": "Tiquete aéreo internacional con impuestos, traslados, 16 noches de alojamiento en 3 países, impuestos hoteleros, desayunos, evisitas y recorridos guiados\n\nFecha de salida: 26 de Diciembre",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 8,990,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#europa"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Cruceros",
-                "subtitle": "¡Navega y ve con nosotros a otros  destinos!",
-                "icon1": "assets/svg/barco.svg",
-                "icon2": "assets/svg/barco.svg",
-                "hero": "barco",
-                "children1": [
-                    {
-                        "title": "Antillas y caribe sur",
-                        "child": [
-                            {
-                                "title": "Antillas y caribe sur",
-                                "subtitle": "¡Una estancia perfecta a bordo de tu CRUCERO!",
-                                "Icon": "assets/svg/barco.svg",
-                                "background": "crucero.jpg",
-                                "text1": "7 noches a bordo del Crucero MONARCH en la categoría elegida, alimentación todo incluido, acceso y uso de instalaciones Participación de todos los programas de animación y actividades. ",
-                                "price": {
-                                    "text1": "",
-                                    "price": "",
-                                    "text2": "Nota: Pendiente reactivación por Covid"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cruceros"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Plan Quinceañeras",
-                "subtitle": "¡Una Paradisíaca isla te espera para festejar  tus 15 años!",
-                "icon1": "assets/svg/ubicacion.svg",
-                "icon2": "assets/svg/ubicacion.svg",
-                "hero": "ubicacion",
-                "children1": [
-                    {
-                        "title": "San Andrés",
-                        "child": [
-                            {
-                                "title": "Sin fiesta",
-                                "subtitle": "¡Un viaje que quedara en tu MEMORIA!",
-                                "Icon": "assets/svg/ubicacion.svg",
-                                "background": "SanAndres15.jpg",
-                                "text1": "Tiquetes aéreos, traslados, kit de viaje, kit de excursión, alojamiento 4 noches, alimentación full estilo, tarjeta de asistencia médica, visitas y tours guiados. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 2,740,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#quinceaneras"
-                                }
-                            },
-                            {
-                                "title": "Con fiesta",
-                                "subtitle": "¡Un viaje y una fiesta que quedaran en tu MEMORIA!",
-                                "Icon": "assets/svg/ubicacion.svg",
-                                "background": "SanAndres15.jpg",
-                                "text1": "Tiquetes aéreos, traslados, kit de viaje, kit de excursión, alojamiento 4 noches, alimentación full estilo, tarjeta de asistencia médica, visitas tours guiados y fiesta.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 3,250,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#quinceaneras"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Porciones Terrestres",
-                "subtitle": "¡Todo para un Viaje PErfecto!",
-                "icon1": "assets/svg/carro.svg",
-                "icon2": "assets/svg/carro.svg",
-                "hero": "carro",
-                "children1": [
-                    {
-                        "title": "Santa Marta",
-                        "child": [
-                            {
-                                "title": "Santa Marta",
-                                "subtitle": "¡Sin preocupaciones tu viaje a SANTA MARTA inolvidable!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "SantaMarta.jpeg",
-                                "text1": "Alojamiento desde 3 noches, alimentación con desayunos y cenas, tour con almuerzo, traslados. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 329,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartatierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Cartagena",
-                        "child": [
-                            {
-                                "title": "Cartagena",
-                                "subtitle": "¡Sin preocupaciones tu viaje a CARTAGENA inolvidable!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "Cartagena2.jpg",
-                                "text1": "Alojamiento desde 3 noches, alimentación con desayunos y cenas, tour con almuerzo, traslados. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 449,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenatierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "San Andrés",
-                        "child": [
-                            {
-                                "title": "San Andrés",
-                                "subtitle": "¡Sin preocupaciones tu viaje a SAN ANDRÉS inolvidable!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "SanAndres2.jpg",
-                                "text1": "Alimentación todo incluido con bar abierto y snack, tour por la bahía, vuelta a la isla y rocky cay sin almuerzo, traslados y asistencia médica. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 599,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sanandrestierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Eje Cafetero",
-                        "child": [
-                            {
-                                "title": "Eje Cafetero",
-                                "subtitle": "¡En tu carro hacia el EJE CAFETERO!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "EjeCafetero.jpg",
-                                "text1": "Alojamiento 2 noches, alimentación Desayuno Ingreso al Parque del Café, Ingreso a Recuca y tarjeta de asistencia médica. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 300,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#ejecafeterotierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Parque Temático Hacienda Nápoles",
-                        "child": [
-                            {
-                                "title": "Parque Temático Hacienda Nápoles",
-                                "subtitle": "¡PARQUE TEMÁTICO HACIENDA NÁPOLES para conocer!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "HaciendaNapoles.jpeg",
-                                "text1": "Alojamiento 2 noches, alimentación desayunos Ingreso al Parque temático Hacienda Nápoles, visita a la reserva natural Cañon de Rio Claro, impuestos hoteleros y tarjeta de asistencia médica. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 366,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#haciendanapolestierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "San Gil",
-                        "child": [
-                            {
-                                "title": "San Gil",
-                                "subtitle": "¡Una aventura extrema en SAN GIL!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "SanGil.jpg",
-                                "text1": "Alojamiento 2 noches, alimentación desayunos y cenas, ingreso al Parque Nacional del Chicamocha y tarjeta de asistencia médica. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 328,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sangiltierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Villa de leiva",
-                        "child": [
-                            {
-                                "title": "Villa de leiva",
-                                "subtitle": "¡VILLA DE LEIVA un lugar romantico, lleno de historia colonial!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "VillaLeiva.jpg",
-                                "text1": "Alojamiento 2 noches, alimentación desayuno, City Tour con visitas y entradas a sitios de interés. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 318,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#villadeleivatierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Paipa",
-                        "child": [
-                            {
-                                "title": "Paipa",
-                                "subtitle": "¡PAIPA, su historia y sus termales!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "Paipa.jpg",
-                                "text1": "Alojamiento 2 noches, alimentación desayuno, entrada al Bio Spa Circuito de Hidroterapia, seguro al viajero ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 316,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#paipatierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Medellín",
-                        "child": [
-                            {
-                                "title": "Medellín",
-                                "subtitle": "¡MEDELLÍN, ciudad moderna y turística",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "Medellin.jpg",
-                                "text1": "Alojamiento desde 2 noches sector Laureles, alimentación con desayunos, city tour por Medellín visitando los principales sitios turísticos, seguro al viajero. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 345,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#medellintierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Villavicencio",
-                        "child": [
-                            {
-                                "title": "Villavicencio",
-                                "subtitle": "¡VILLAVICENCIO, la puerta del llano!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "Villavicencio.jpg",
-                                "text1": "Alojamiento 2 noches, alimentación desayuno, entrada al Bio Spa Circuito de Hidroterapia, seguro al viajero ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 312,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#villaotierra"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Manizales Nevado del Ruíz",
-                        "child": [
-                            {
-                                "title": "Manizales Nevado del Ruíz",
-                                "subtitle": "¡NEVADO DEL RUÍZ, una hermosa cumbre de nieve!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "NevadoRuiz.jpg",
-                                "text1": "Vive la experiencia de visitar uno de los más interesantes y activos volcanes del continente suramericano. Alojamiento 2 noches en Manizales en habitación estándar, Alimentación: Desayuno, Transporte (Guía especializado), Entrada al P.N.N. los Nevados y ascenso hasta el Valle de las Tumbas, Baño Termal, Póliza de asistencia en el recorrido, Tarjeta de asistencia médica.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 481,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#nevadodelruiz"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Fincas de Cundinamarca",
-                        "child": [
-                            {
-                                "title": "Fincas de Cundinamarca",
-                                "subtitle": "¡Disfruta de un buen descanso con la naturaleza de CUNDINAMARCA!",
-                                "Icon": "assets/svg/carro.svg",
-                                "background": "FincaCundinamarca.jpg",
-                                "text1": "Alojamiento desde 1 noche, Servicio alimentación sujeto a disponibilidad según la finca. ",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 50,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#fincascundi"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Promociones",
-                "subtitle": "¡Un Buen Viaje a un buen Precio!",
-                "icon1": "assets/svg/ticket.svg",
-                "icon2": "assets/svg/ticket.svg",
-                "hero": "convenio",
-                "children1": [
-                    {
-                        "title": "Plan Separe 2021",
-                        "child": [
-                            {
-                                "title": "Santa Marta",
-                                "subtitle": "¡Viaja a SANTA MARTA a un precio de locura!",
-                                "Icon": "assets/svg/ticket.svg",
-                                "background": "SantaMarta2.jpeg",
-                                "text1": "Tiquete aéreo, traslados, alojamiento 3 noches, alimentación desayunos y cenas y tour con almuerzo. Separe con $300.000.\n\nSujeto a disponibilidad.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 924,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#plansepare"
-                                }
-                            },
-                            {
-                                "title": "Cartagena",
-                                "subtitle": "¡Viajar a CARTAGENA nunca fué tan fácil!",
-                                "Icon": "assets/svg/ticket.svg",
-                                "background": "Cartagena.jpg",
-                                "text1": "Tiquete aéreo, traslados, alojamiento 3 noches, alimentación desayunos y cenas y tour con almuerzo. Separe con $300.000.\n\nSujeto a disponibilidad.",
-                                "price": {
-                                    "text1": "Desde",
-                                    "price": "$ 967,000",
-                                    "text2": "Por Persona"
-                                },
-                                "areaButton": {
-                                    "txt1": "Más información",
-                                    "txtButton": "Haz Clic Aquí",
-                                    "txt2": "Aplican términos y condiciones",
-                                    "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#plansepare"
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
+  "agencyData": {
+    "icon": "assets/svg/avion.svg",
+    "name": "AGENCIA DE VIAJES",
+    "hero": "agencia",
+    "subtitle": "¡Invertir en viajar es invertir en uno  mismo!",
+    "image": "TurismoC.jpg",
+    "aligment1": -0.3,
+    "aligment2": 5.0,
+    "children": [
+      {
+        "title": "Planes Terrestres Nacionales",
+        "subtitle": "¡Nada mejor que conocer Colombia por tierra!",
+        "icon1": "assets/svg/bus.svg",
+        "icon2": "assets/svg/bus.svg",
+        "hero": "bus",
+        "children1": [
+          {
+            "title": "Eje Cafetero",
+            "child": [
+              {
+                "title": "Eje Cafetero",
+                "subtitle": "¡Disfruta de los paisajes del EJE CAFETERO!",
+                "Icon": "assets/svg/bus.svg",
+                "background": "EjeCafetero.jpg",
+                "text1": "Considerado como el segundo destino turístico de Colombia, cuenta con la mayor cantidad de sitios turísticos y atractivos para visitar y disfrutar.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 729,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#ejecafetero"
+                }
+              }
+            ]
+          },
+          {
+            "title": "San Gil",
+            "child": [
+              {
+                "title": "San Gil",
+                "subtitle": "¡Una aventura extrema en SAN GIL!",
+                "Icon": "assets/svg/bus.svg",
+                "background": "SanGil.jpg",
+                "text1": "Alojamiento 3 Noches, Transporte, alimentación desayunos y cenas, visita a Socorro, Barichara, Páramo,Parque Chicamocha y Curiti.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 645,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sangil"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Hacienda Nápoles Rio Claro y Parque Temático",
+            "child": [
+              {
+                "title": "Hacienda Nápoles Rio Claro y Parque Temático",
+                "subtitle": "¡Maravillate con el PARQUE TEMÁTICO Hacienda Nápoles",
+                "Icon": "assets/svg/bus.svg",
+                "background": "HaciendaNapoles.jpeg",
+                "text1": "Alojamiento 2 Noches,Transporte, desayunos, visita a pueblos, parque temático y reserva natural.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 595,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#haciendanapoles"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Nuestro Sur",
+            "child": [
+              {
+                "title": "Nuestro Sur",
+                "subtitle": "Disfruta de los grandes atractivos turísticos hacia el SUR",
+                "Icon": "assets/svg/bus.svg",
+                "background": "Pasto.jpg",
+                "text1": "Transporte, Alojamiento en Popayán, Pasto y Cali, Desayunos y Cenas, entradas a sitios de interés, traslados.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 1,335,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#nuestrosur"
+                }
+              }
+            ]
+          }
         ]
-    },
-    "hotelData": {
-        "icon": "assets/svg/hotel_azul.svg",
-        "name": "HOTELES Y CENTROS VACACIONALES",
-        "hero": "hotel",
-        "image": "HotelC.jpg",
-        "subtitle": "Momentos inolvidables en Nuestros Hoteles",
-        "aligment1": -0.7,
-        "aligment2": 5.0,
-        "hotels": [
-            {
-                "title": "Hotel los Puentes",
-                "icon1": "assets/svg/hotel_rojo.svg",
-                "icon2": "assets/svg/hotel_rojo.svg",
-                "hero": "rojo",
-                "data": {
-                    "title": "Hotel los Puentes",
-                    "subtitle": "¡En GIRARDOT encontrarás el descanso perfecto!",
-                    "Icon": "assets/svg/hotel_rojo.svg",
-                    "background": "HotelLosPuentes.jpg",
-                    "text1": "El clima cálido en el centro de un lugar acogedor, para una estadía inolvidable.",
-                    "price": {
-                        "text1": "DISFRUTA DE DOS AMBIENTES EN UN SOLO LUGAR, HABITACIONES TIPO CABAÑA Y HABITACIONES CON BALCÓN EN LA TORRE HOTELERA.",
-                        "price": "",
-                        "text2": ""
-                    },
-                    "areaButton": {
-                        "txt1": "",
-                        "txtButton": "VER PLANES",
-                        "txt2": "Hotel ubicado en Cra. 12 #15-03, Girardot.",
-                        "url": "https://www.comfacundi.com.co/hotel-los-puentes/#planeslospuentes"
-                    }
+      },
+      {
+        "title": "Planes Aéreos Nacionales",
+        "subtitle": "¡Vuela y conoce los Mejores lugares  de Colombia!",
+        "icon1": "assets/svg/avion_n.svg",
+        "icon2": "assets/svg/avion_n.svg",
+        "hero": "avion1",
+        "children1": [
+          {
+            "title": "Santa Marta",
+            "child": [
+              {
+                "title": "2020",
+                "subtitle": "¡SANTA MARTA y sus paradisíacas playas!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "SantaMarta.jpeg",
+                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 869,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartaaereo"
                 }
-            },
-            {
-                "title": "Hotel San Marcos",
-                "icon1": "assets/svg/hotel_verde.svg",
-                "icon2": "assets/svg/hotel_verde.svg",
-                "hero": "verde",
-                "data": {
-                    "title": "Hotel San Marcos",
-                    "subtitle": "¡En el RICAURTE descansaras en medio de la naturaleza!",
-                    "Icon": "assets/svg/hotel_verde.svg",
-                    "background": "HotelSanMarcos.jpg",
-                    "text1": "Encontrarás un lugar tranquilo, alejado del caos de la ciudad, con diferentes espacios lúdicos para disfrutar junto con tu familia y amigos. ",
-                    "price": {
-                        "text1": "HABITACIONES CON BALCÓN, RESTAURANTE, 2 BARES Y 2 PISCINAS. ",
-                        "price": "",
-                        "text2": ""
-                    },
-                    "areaButton": {
-                        "txt1": "",
-                        "txtButton": "VER PLANES",
-                        "txt2": "Ubicado km 5 Via Ricaurte - Agua de Dios Condominio San Marcos Poblado",
-                        "url": "https://www.comfacundi.com.co/hotel-san-marcos/#planessanmarcos"
-                    }
+              },
+              {
+                "title": "2x1",
+                "subtitle": "¡SANTA MARTA 2x1 navidad, fin de año y reyes!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "SantaMarta.jpeg",
+                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, asistencia médica traslados aeropuerto - hotel - aeropuerto.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 1,819,000",
+                  "text2": "Por 2 Personas"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartafin2x1"
                 }
-            },
-            {
-                "title": "Hotel Refugio el santuario",
-                "icon1": "assets/svg/hotel_morado.svg",
-                "icon2": "assets/svg/hotel_morado.svg",
-                "hero": "morado",
-                "data": {
-                    "title": "Hotel Refugio el santuario",
-                    "subtitle": "¡A orillas de la laguna el FÚQUENE, encuentra un ambiente muy natural!",
-                    "Icon": "assets/svg/hotel_morado.svg",
-                    "background": "HotelRefugioElSantuario.jpg",
-                    "text1": "Disfruta de su arquitectura colonial con vista a la Laguna de Fúquene y avistamiento de aves nativas y migratorias. ",
-                    "price": {
-                        "text1": "PASEOS EN BICICLETA, CAMINATAS POR SENDEROS ECOLÓGICOS, RECORRIDO EN LANCHAS POR LA LAGUNA Y TALLERES DE BELLAS TRADICIONES COMO LA ELABORACIÓN DE CUAJADA. ",
-                        "price": "",
-                        "text2": ""
-                    },
-                    "areaButton": {
-                        "txt1": "",
-                        "txtButton": "VER PLANES",
-                        "txt2": "Ubicado en el km. 22 vía Ubaté, Chiquinquirá",
-                        "url": "https://www.comfacundi.com.co/hotel-refugio-el-santuario/#planeselrefugio"
-                    }
+              }
+            ]
+          },
+          {
+            "title": "Cartagena",
+            "child": [
+              {
+                "title": "2020",
+                "subtitle": "¡Ciudad romántica y llena de historia CARTAGENA!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "Cartagena.jpg",
+                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 899,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenaaereo"
                 }
-            },
-            {
-                "title": "Centro Vacacional Entre Rios",
-                "icon1": "assets/svg/hotel_azul.svg",
-                "icon2": "assets/svg/hotel_azul.svg",
-                "hero": "azul",
-                "data": {
-                    "title": "Centro Vacacional Entre Rios",
-                    "subtitle": "¡Entre SASAIMA y VILLETA pasa un día innolvidable!",
-                    "Icon": "assets/svg/hotel_azul.svg",
-                    "background": "CentroVEntreRios.jpg",
-                    "text1": "Rodeado de montañas y quebradas, este Centro Vacacional es muy atractivo por sus ambientes naturales en medio de un clima templado. ",
-                    "price": {
-                        "text1": "PISCINA PARA ADULTOS, PISCINA PARA NIÑOS, RESTAURANTE, ZONA BBQ, SENDERO ECOLÓGICO Y PARQUEADERO.",
-                        "price": "",
-                        "text2": ""
-                    },
-                    "areaButton": {
-                        "txt1": "",
-                        "txtButton": "VER PLANES",
-                        "txt2": "Ubicado en el Km 76 vía Sasaima – Villeta",
-                        "url": "https://www.comfacundi.com.co/entre-rios/#planesentrerios"
-                    }
+              },
+              {
+                "title": "2x1",
+                "subtitle": "¡CARTAGENA 2x1 navidad fin de año y reyes!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "Cartagena.jpg",
+                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos y cenas, tour con almuerzo, traslados y asistencia médica.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,099,000",
+                  "text2": "Por 2 Personas"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenafin2x1"
                 }
-            },
-            {
-                "title": "Centro vacacional Mirador de Sumapaz",
-                "icon1": "assets/svg/hotel_naranja.svg",
-                "icon2": "assets/svg/hotel_naranja.svg",
-                "hero": "naranja",
-                "data": {
-                    "title": "Centro vacacional Mirador de Sumapaz",
-                    "subtitle": "Disfruta de los paisajes del Eje Cafetero",
-                    "Icon": "assets/svg/hotel_naranja.svg",
-                    "background": "MiradorSumapaz.jpg",
-                    "text1": "La naturaleza se une con la infraestructura de este lugar campestre para disfrutar con tu familia y amigos. ",
-                    "price": {
-                        "text1": "AMPLIAS CABAÑAS Y HABITACIONES RODEADAS DE NATURALEZA, 2 PISCINAS, TOBOGÁN, VOLEY PLAYA Y ZONA DE JUEGOS INFANTILES.",
-                        "price": "",
-                        "text2": ""
-                    },
-                    "areaButton": {
-                        "txt1": "",
-                        "txtButton": "VER PLANES",
-                        "txt2": "Ubicado en el km 91 Vereda El Salero, vía Bogotá-Melgar",
-                        "url": "https://www.comfacundi.com.co/mirador-sumapaz/#planessumapaz"
-                    }
+              }
+            ]
+          },
+          {
+            "title": "San Andrés",
+            "child": [
+              {
+                "title": "San Andrés",
+                "subtitle": "¡Isla Paradisíaca SAN ANDRÉS!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "SanAndres.jpg",
+                "text1": "Tiquete aéreo, alojamiento 4 noches, alimentación todo incluido con bar abierto y snacks, tour por la bahía, vuelta a la isla, rocky cay y traslados",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 1,400,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sanandres"
                 }
-            }
+              }
+            ]
+          },
+          {
+            "title": "Capurganá",
+            "child": [
+              {
+                "title": "Capurganá",
+                "subtitle": "¡CAPURGANÁ un paraje tranquilo y escondido!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "Capurgana.jpg",
+                "text1": "Tiquete aéreo, alojamiento 4 noches, alimentación desayunos, almuerzo y cenas, Servicio de piscina y jacuzzi, Tarjeta de asistencia médica y obsequio. Salidas programadas de lunes a viernes.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,350,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#capurgana"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Amazonas",
+            "child": [
+              {
+                "title": "Amazonas",
+                "subtitle": "¡AMAZONAS más, que selva, un paraiso!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "Amazonas.jpg",
+                "text1": "Tiquete aéreo, alojamiento 3 noches, alimentación desayunos, almuerzo y cenas, Servicio de piscina y jacuzzi, Tarjeta de asistencia médica y obsequio. Salidas programadas de lunes a viernes.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,100,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#amazonas1"
+                }
+              }
+            ]
+          },
+          {
+            "title": "La Guajira",
+            "child": [
+              {
+                "title": "La Guajira",
+                "subtitle": "¡Rioacha, desierto y turismo de aventura!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "Rioacha.jpg",
+                "text1": "Tiquete aéreo , Traslados, Alojamiento 5 noches en Riohacha, Punta Gallinas, Nazaret y Cabo de la Vela, alimentación completa, seguro de viaje.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,990,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#laguajira"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Caño Cristales",
+            "child": [
+              {
+                "title": "Caño Cristales",
+                "subtitle": "¡Maravillate con los colores de CAÑO CRISTALES!",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "CanoCristales.jpg",
+                "text1": "Tiquete aéreo , Traslados, Alojamiento 4 noches, Alimentación descrita en el programa, show llanero, ingreso a reservas naturales.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,055,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#canocristales"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Tolú y Coveñas",
+            "child": [
+              {
+                "title": "Tolú y Coveñas",
+                "subtitle": "TOLÚ Y COVEÑAS disfruta de sus aguas Cristalinas",
+                "Icon": "assets/svg/avion_n.svg",
+                "background": "ToluyCovenas.jpg",
+                "text1": "Tiquete aéreo , Traslados, Alojamiento 2 noches en Tolú, 2 noches en Coveñas, alimentación completa, recorridos a ciénaga de la Caimanera, ruta sabanera, playa blanca y archipielago.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,100,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#tolucovenas"
+                }
+              }
+            ]
+          }
         ]
-    }
+      },
+      {
+        "title": "Planes Aéreos Internacionales",
+        "subtitle": "¡Vuela a donde tu imaginación siempre  te ha llevado!",
+        "icon1": "assets/svg/avion_m.svg",
+        "icon2": "assets/svg/avion_m.svg",
+        "hero": "avion2",
+        "children1": [
+          {
+            "title": "Cancún",
+            "child": [
+              {
+                "title": "2020",
+                "subtitle": "CANCÚN, te enamorarás de sus playas de arena blanca",
+                "Icon": "assets/svg/avion_m.svg",
+                "background": "Cancun.jpg",
+                "text1": "Tiquete aéreo , Traslados, Alojamiento 4 noches, alimentación completa, tarjeta de asistencia médica.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,900,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cancun"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Punta Cana o Puente Plata",
+            "child": [
+              {
+                "title": "Punta Cana o Puente Plata",
+                "subtitle": "¡PUNTA CANA, con aguas cristalinas, turquesas y cálidas!",
+                "Icon": "assets/svg/avion_m.svg",
+                "background": "PuntaCana.jpg",
+                "text1": "Tiquete aéreo, traslados, alojamiento 7 noches, alimentación todo incluido con bar abierto, snack, tarjeta de asistencia médica, actividades shows de entretenimiento diurno y nocturno.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 3,827,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#puntacana"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Cuba",
+            "child": [
+              {
+                "title": "Cuba",
+                "subtitle": "¡CUBA, viaja en el tiempo al ritmo del son cubano",
+                "Icon": "assets/svg/avion_m.svg",
+                "background": "Cuba.jpg",
+                "text1": "Alojamiento 4 noches, Tiquete aéreo, alimentación todo incluido con bar abierto, tarjeta de asistencia médica, snacks, tours y traslados.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,790,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cuba"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Excursiones y Peregrinaciones",
+        "subtitle": "¡Disfruta de grandes actividades jamás  vividas!",
+        "icon1": "assets/svg/bolso.svg",
+        "icon2": "assets/svg/bolso.svg",
+        "hero": "bolso",
+        "children1": [
+          {
+            "title": "Turquía",
+            "child": [
+              {
+                "title": "Turquía",
+                "subtitle": "¡Turquia y dubai!",
+                "Icon": "assets/svg/bolso.svg",
+                "background": "Turquia.jpg",
+                "text1": "Tiquete aéreo, Impuestos aéreos Y 2% de fee bancario.\n\nTURQUÍA: 03 noches en Estambul, 02 noches en Capadocia, 01 noche en Pamukkale, 01 noche Izmir, 01 noche en Pamukkale, 01 noche Canakkale, Traslados aeropuerto-hotel-aeropuerto, guía profesional habla hispana, excursión en Estambul entradas  y visitas.\n\nDUBAI: 04 noches con desayuno Traslados aeropuerto-hotel-aeropuerto, (guía profesional habla hispana, tour de día entero en Abu Dhabi con almuerzo, tour de medio día Dubái clásico), (guía profesional habla inglesa, cena en el crucero Dhow y safari en el desierto con cena) ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 10,290,000",
+                  "text2": "Por Persona - acomodación doble"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#turquia"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Tierra Santa",
+            "child": [
+              {
+                "title": "Tierra Santa",
+                "subtitle": "¡En TIERRA SANTA vivirás una experiencia mística!",
+                "Icon": "assets/svg/bolso.svg",
+                "background": "TierraSanta.jpg",
+                "text1": "Tiquete aéreo, guía acompañante durante todo el recorrido, Guías locales para visitas de ciudad, Tarjeta de asistencia médica, Bus de lujo para todo el recorrido, 11 noches de alojamiento, Alimentación y Visitas previstas. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 13,890,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#tierrasanta"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cruceros",
+        "subtitle": "¡Navega y ve con nosotros a otros  destinos!",
+        "icon1": "assets/svg/barco.svg",
+        "icon2": "assets/svg/barco.svg",
+        "hero": "barco",
+        "children1": [
+          {
+            "title": "Antillas y caribe sur",
+            "child": [
+              {
+                "title": "Antillas y caribe sur",
+                "subtitle": "¡Una estancia perfecta a bordo de tu CRUCERO!",
+                "Icon": "assets/svg/barco.svg",
+                "background": "crucero.jpg",
+                "text1": "7 noches a bordo del Crucero MONARCH en la categoría elegida, alimentación todo incluido, acceso y uso de instalaciones Participación de todos los programas de animación y actividades. ",
+                "price": {
+                  "text1": "",
+                  "price": "",
+                  "text2": "Nota: Pendiente reactivación por Covid"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cruceros"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Plan Quinceañeras",
+        "subtitle": "¡Una Paradisíaca isla te espera para festejar  tus 15 años!",
+        "icon1": "assets/svg/ubicacion.svg",
+        "icon2": "assets/svg/ubicacion.svg",
+        "hero": "ubicacion",
+        "children1": [
+          {
+            "title": "San Andrés",
+            "child": [
+              {
+                "title": "Sin fiesta",
+                "subtitle": "¡Un viaje que quedara en tu MEMORIA!",
+                "Icon": "assets/svg/ubicacion.svg",
+                "background": "SanAndres15.jpg",
+                "text1": "Tiquetes aéreos, traslados, kit de viaje, kit de excursión, alojamiento 4 noches, alimentación full estilo, tarjeta de asistencia médica, visitas y tours guiados. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 2,740,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#quinceaneras"
+                }
+              },
+              {
+                "title": "Con fiesta",
+                "subtitle": "¡Un viaje y una fiesta que quedaran en tu MEMORIA!",
+                "Icon": "assets/svg/ubicacion.svg",
+                "background": "SanAndres15.jpg",
+                "text1": "Tiquetes aéreos, traslados, kit de viaje, kit de excursión, alojamiento 4 noches, alimentación full estilo, tarjeta de asistencia médica, visitas tours guiados y fiesta.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 3,250,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#quinceaneras"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Porciones Terrestres",
+        "subtitle": "¡Todo para un Viaje PErfecto!",
+        "icon1": "assets/svg/carro.svg",
+        "icon2": "assets/svg/carro.svg",
+        "hero": "carro",
+        "children1": [
+          {
+            "title": "Santa Marta",
+            "child": [
+              {
+                "title": "Santa Marta",
+                "subtitle": "¡Sin preocupaciones tu viaje a SANTA MARTA inolvidable!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "SantaMarta.jpeg",
+                "text1": "Alojamiento desde 3 noches, alimentación con desayunos y cenas, tour con almuerzo, traslados. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 329,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#santamartatierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Cartagena",
+            "child": [
+              {
+                "title": "Cartagena",
+                "subtitle": "¡Sin preocupaciones tu viaje a CARTAGENA inolvidable!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "Cartagena2.jpg",
+                "text1": "Alojamiento desde 3 noches, alimentación con desayunos y cenas, tour con almuerzo, traslados. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 449,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#cartagenatierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "San Andrés",
+            "child": [
+              {
+                "title": "San Andrés",
+                "subtitle": "¡Sin preocupaciones tu viaje a SAN ANDRÉS inolvidable!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "SanAndres2.jpg",
+                "text1": "Alimentación todo incluido con bar abierto y snack, tour por la bahía, vuelta a la isla y rocky cay sin almuerzo, traslados y asistencia médica. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 599,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sanandrestierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Eje Cafetero",
+            "child": [
+              {
+                "title": "Eje Cafetero",
+                "subtitle": "¡En tu carro hacia el EJE CAFETERO!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "EjeCafetero.jpg",
+                "text1": "Alojamiento 2 noches, alimentación Desayuno Ingreso al Parque del Café, Ingreso a Recuca y tarjeta de asistencia médica. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 300,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#ejecafeterotierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Parque Temático Hacienda Nápoles",
+            "child": [
+              {
+                "title": "Parque Temático Hacienda Nápoles",
+                "subtitle": "¡PARQUE TEMÁTICO HACIENDA NÁPOLES para conocer!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "HaciendaNapoles.jpeg",
+                "text1": "Alojamiento 2 noches, alimentación desayunos Ingreso al Parque temático Hacienda Nápoles, visita a la reserva natural Cañon de Rio Claro, impuestos hoteleros y tarjeta de asistencia médica. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 366,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#haciendanapolestierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "San Gil",
+            "child": [
+              {
+                "title": "San Gil",
+                "subtitle": "¡Una aventura extrema en SAN GIL!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "SanGil.jpg",
+                "text1": "Alojamiento 2 noches, alimentación desayunos y cenas, ingreso al Parque Nacional del Chicamocha y tarjeta de asistencia médica. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 328,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#sangiltierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Villa de leiva",
+            "child": [
+              {
+                "title": "Villa de leiva",
+                "subtitle": "¡VILLA DE LEIVA un lugar romantico, lleno de historia colonial!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "VillaLeiva.jpg",
+                "text1": "Alojamiento 2 noches, alimentación desayuno, City Tour con visitas y entradas a sitios de interés. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 318,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#villadeleivatierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Paipa",
+            "child": [
+              {
+                "title": "Paipa",
+                "subtitle": "¡PAIPA, su historia y sus termales!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "Paipa.jpg",
+                "text1": "Alojamiento 2 noches, alimentación desayuno, entrada al Bio Spa Circuito de Hidroterapia, seguro al viajero ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 316,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#paipatierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Medellín",
+            "child": [
+              {
+                "title": "Medellín",
+                "subtitle": "¡MEDELLÍN, ciudad moderna y turística",
+                "Icon": "assets/svg/carro.svg",
+                "background": "Medellin.jpg",
+                "text1": "Alojamiento desde 2 noches sector Laureles, alimentación con desayunos, city tour por Medellín visitando los principales sitios turísticos, seguro al viajero. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 345,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#medellintierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Villavicencio",
+            "child": [
+              {
+                "title": "Villavicencio",
+                "subtitle": "¡VILLAVICENCIO, la puerta del llano!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "Villavicencio.jpg",
+                "text1": "Alojamiento 2 noches, alimentación desayuno, entrada al Bio Spa Circuito de Hidroterapia, seguro al viajero ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 312,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#villaotierra"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Manizales Nevado del Ruíz",
+            "child": [
+              {
+                "title": "Manizales Nevado del Ruíz",
+                "subtitle": "¡NEVADO DEL RUÍZ, una hermosa cumbre de nieve!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "NevadoRuiz.jpg",
+                "text1": "Vive la experiencia de visitar uno de los más interesantes y activos volcanes del continente suramericano. Alojamiento 2 noches en Manizales en habitación estándar, Alimentación: Desayuno, Transporte (Guía especializado), Entrada al P.N.N. los Nevados y ascenso hasta el Valle de las Tumbas, Baño Termal, Póliza de asistencia en el recorrido, Tarjeta de asistencia médica.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 481,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#nevadodelruiz"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Fincas de Cundinamarca",
+            "child": [
+              {
+                "title": "Fincas de Cundinamarca",
+                "subtitle": "¡Disfruta de un buen descanso con la naturaleza de CUNDINAMARCA!",
+                "Icon": "assets/svg/carro.svg",
+                "background": "FincaCundinamarca.jpg",
+                "text1": "Alojamiento desde 1 noche, Servicio alimentación sujeto a disponibilidad según la finca. ",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 50,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#fincascundi"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Promociones",
+        "subtitle": "¡Un Buen Viaje a un buen Precio!",
+        "icon1": "assets/svg/ticket.svg",
+        "icon2": "assets/svg/ticket.svg",
+        "hero": "convenio",
+        "children1": [
+          {
+            "title": "Plan Separe 2021",
+            "child": [
+              {
+                "title": "Santa Marta",
+                "subtitle": "¡Viaja a SANTA MARTA a un precio de locura!",
+                "Icon": "assets/svg/ticket.svg",
+                "background": "SantaMarta2.jpeg",
+                "text1": "Tiquete aéreo, traslados, alojamiento 3 noches, alimentación desayunos y cenas y tour con almuerzo. Separe con $300.000.\n\nSujeto a disponibilidad.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 924,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#plansepare"
+                }
+              },
+              {
+                "title": "Cartagena",
+                "subtitle": "¡Viajar a CARTAGENA nunca fué tan fácil!",
+                "Icon": "assets/svg/ticket.svg",
+                "background": "Cartagena.jpg",
+                "text1": "Tiquete aéreo, traslados, alojamiento 3 noches, alimentación desayunos y cenas y tour con almuerzo. Separe con $300.000.\n\nSujeto a disponibilidad.",
+                "price": {
+                  "text1": "Desde",
+                  "price": "$ 967,000",
+                  "text2": "Por Persona"
+                },
+                "areaButton": {
+                  "txt1": "Más información",
+                  "txtButton": "Haz Clic Aquí",
+                  "txt2": "Aplican términos y condiciones",
+                  "url": "https://www.comfacundi.com.co/agencia-de-viajes-comfacundi-turismo/#plansepare"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "hotelData": {
+    "icon": "assets/svg/hotel_azul.svg",
+    "name": "HOTELES Y CENTROS VACACIONALES",
+    "hero": "hotel",
+    "image": "HotelC.jpg",
+    "subtitle": "Momentos inolvidables en Nuestros Hoteles",
+    "aligment1": -0.7,
+    "aligment2": 5.0,
+    "hotels": [
+      {
+        "title": "Hotel los Puentes",
+        "icon1": "assets/svg/hotel_rojo.svg",
+        "icon2": "assets/svg/hotel_rojo.svg",
+        "hero": "rojo",
+        "data": {
+          "title": "Hotel los Puentes",
+          "subtitle": "¡En GIRARDOT encontrarás el descanso perfecto!",
+          "Icon": "assets/svg/hotel_rojo.svg",
+          "background": "HotelLosPuentes.jpg",
+          "text1": "El clima cálido en el centro de un lugar acogedor, para una estadía inolvidable.",
+          "price": {
+            "text1": "DISFRUTA DE DOS AMBIENTES EN UN SOLO LUGAR, HABITACIONES TIPO CABAÑA Y HABITACIONES CON BALCÓN EN LA TORRE HOTELERA.",
+            "price": "",
+            "text2": ""
+          },
+          "areaButton": {
+            "txt1": "",
+            "txtButton": "VER PLANES",
+            "txt2": "Hotel ubicado en Cra. 12 #15-03, Girardot.",
+            "url": "https://www.comfacundi.com.co/hotel-los-puentes/#planeslospuentes"
+          }
+        }
+      },
+      {
+        "title": "Hotel San Marcos",
+        "icon1": "assets/svg/hotel_verde.svg",
+        "icon2": "assets/svg/hotel_verde.svg",
+        "hero": "verde",
+        "data": {
+          "title": "Hotel San Marcos",
+          "subtitle": "¡En RICAURTE descansarás en medio de la naturaleza!",
+          "Icon": "assets/svg/hotel_verde.svg",
+          "background": "HotelSanMarcos.jpg",
+          "text1": "Encontrarás un lugar tranquilo, alejado del caos de la ciudad, con diferentes espacios lúdicos para disfrutar junto con tu familia y amigos. ",
+          "price": {
+            "text1": "HABITACIONES CON BALCÓN, RESTAURANTE, 2 BARES Y 2 PISCINAS. ",
+            "price": "",
+            "text2": ""
+          },
+          "areaButton": {
+            "txt1": "",
+            "txtButton": "VER PLANES",
+            "txt2": "Ubicado km 5 Via Ricaurte - Agua de Dios Condominio San Marcos Poblado",
+            "url": "https://www.comfacundi.com.co/hotel-san-marcos/#planessanmarcos"
+          }
+        }
+      },
+      {
+        "title": "Hotel Refugio el santuario",
+        "icon1": "assets/svg/hotel_morado.svg",
+        "icon2": "assets/svg/hotel_morado.svg",
+        "hero": "morado",
+        "data": {
+          "title": "Hotel Refugio el santuario",
+          "subtitle": "¡A orillas de la laguna el FÚQUENE, encuentra un ambiente muy natural!",
+          "Icon": "assets/svg/hotel_morado.svg",
+          "background": "HotelRefugioElSantuario.jpg",
+          "text1": "Disfruta de su arquitectura colonial con vista a la Laguna de Fúquene y avistamiento de aves nativas y migratorias. ",
+          "price": {
+            "text1": "PASEOS EN BICICLETA, CAMINATAS POR SENDEROS ECOLÓGICOS, RECORRIDO EN LANCHAS POR LA LAGUNA Y TALLERES DE BELLAS TRADICIONES COMO LA ELABORACIÓN DE CUAJADA. ",
+            "price": "",
+            "text2": ""
+          },
+          "areaButton": {
+            "txt1": "",
+            "txtButton": "VER PLANES",
+            "txt2": "Ubicado en el km. 22 vía Ubaté, Chiquinquirá",
+            "url": "https://www.comfacundi.com.co/hotel-refugio-el-santuario/#planeselrefugio"
+          }
+        }
+      },
+      {
+        "title": "Centro vacacional Mirador de Sumapaz",
+        "icon1": "assets/svg/hotel_naranja.svg",
+        "icon2": "assets/svg/hotel_naranja.svg",
+        "hero": "naranja",
+        "data": {
+          "title": "Centro vacacional Mirador de Sumapaz",
+          "subtitle": "Disfruta de los paisajes del Eje Cafetero",
+          "Icon": "assets/svg/hotel_naranja.svg",
+          "background": "MiradorSumapaz.jpg",
+          "text1": "La naturaleza se une con la infraestructura de este lugar campestre para disfrutar con tu familia y amigos. ",
+          "price": {
+            "text1": "AMPLIAS CABAÑAS Y HABITACIONES RODEADAS DE NATURALEZA, 2 PISCINAS, TOBOGÁN, VOLEY PLAYA Y ZONA DE JUEGOS INFANTILES.",
+            "price": "",
+            "text2": ""
+          },
+          "areaButton": {
+            "txt1": "",
+            "txtButton": "VER PLANES",
+            "txt2": "Ubicado en el km 91 Vereda El Salero, vía Bogotá-Melgar",
+            "url": "https://www.comfacundi.com.co/mirador-sumapaz/#planessumapaz"
+          }
+        }
+      }
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 import 'package:comfacundi_app/Views/Partials/comfacundiBase.dart';
-import 'package:comfacundi_app/Views/UIs/living/DetailLiving.dart/detailLivingSettings.dart';
+import 'package:comfacundi_app/Views/UIs/living/ListOptionLiving2/ListOptionLiving2Settings.dart';
 import 'package:flutter/material.dart';
 
+import 'DetailLiving/detailLivingSettings.dart';
 import 'ListOptionLivingSettings.dart';
 
 class ListOptionLivingPage extends StatelessWidget {
@@ -13,6 +14,7 @@ class ListOptionLivingPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    
     return Base(
       headerColor: Theme.of(context).primaryColorDark,
       bottomBarColor: Theme.of(context).primaryColorDark,
@@ -24,36 +26,53 @@ class ListOptionLivingPage extends StatelessWidget {
         child: Card(
           child: ListView(padding: EdgeInsets.zero, children: <Widget>[
             ...settings.living.items.map((element) {
+              print(element.title);
               return Column(
                 mainAxisSize: MainAxisSize.min,
                 children: <Widget>[
-                  (element.children.length > 1)
-                      ? ExpansionTile(
-                          title: Text('${element.title}'),
-                          children: <Widget>[
-                            ...element.children.map((el) {
-                              return ListTile(
-                                onTap: () {
-                                  Navigator.pushNamed(context, '/detailLiving',
-                                      arguments:
-                                          DetailLivingSettings(children: el));
-                                },
-                                title: Text(
-                                  el.subtitle.toUpperCase(),
-                                  style: TextStyle(
-                                      color: Color.fromRGBO(0, 40, 82, 1),
-                                      fontFamily: 'Montserrat'),
-                                ),
-                                trailing: Icon(Icons.keyboard_arrow_right),
-                              );
-                            })
-                          ],
+                  (element.children1.length <= 1)
+                      ? ListTile(
+                          onTap: () {
+                            Navigator.pushNamed(context, '/listOptionLiving2',
+                                arguments: ListOptionLiving2Settings(
+                                  children: element.children1[0].children,
+                                  detail: element.children1[0].detail,
+                                  hero: element.children1[0].tag,
+                                  icon: element.children1[0].icon,
+                                  title: element.children1[0].title,
+                                ));
+                          },
+                          title: Text(
+                            element.title.toUpperCase(),
+                            style: TextStyle(
+                                color: Color.fromRGBO(0, 40, 82, 1),
+                                fontFamily: 'Montserrat'),
+                          ),
+                          trailing: Icon(Icons.keyboard_arrow_right),
                         )
                       : ListTile(
                           onTap: () {
                             Navigator.pushNamed(context, '/detailLiving',
                                 arguments: DetailLivingSettings(
-                                    children: element.children[0]));
+                                  detail: element
+                                      .children1[0].children[0].child[0].detail,
+                                  hero: element.children1[0].tag,
+                                  icon: element.children1[0].icon,
+                                  title: element
+                                      .children1[0].children[0].child[0].title,
+                                  detail2: element.children1[0].children[0]
+                                      .child[0].detail2,
+                                  imgs: element
+                                      .children1[0].children[0].child[0].imgs,
+                                  table1: element
+                                      .children1[0].children[0].child[0].table1,
+                                  table2: element
+                                      .children1[0].children[0].child[0].table2,
+                                  url: element
+                                      .children1[0].children[0].child[0].url,
+                                  withbg: element
+                                      .children1[0].children[0].child[0].withBg,
+                                ));
                           },
                           title: Text(
                             element.title.toUpperCase(),

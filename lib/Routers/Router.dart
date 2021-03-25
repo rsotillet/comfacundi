@@ -13,8 +13,9 @@ import 'package:comfacundi_app/Views/UIs/education/ListOptionEducation2/ListOpti
 import 'package:comfacundi_app/Views/UIs/job/DetailJob/DetailJob.dart';
 import 'package:comfacundi_app/Views/UIs/job/DetailJob2/DetailJob2.dart';
 import 'package:comfacundi_app/Views/UIs/job/ListOptionJob.dart';
-import 'package:comfacundi_app/Views/UIs/living/DetailLiving.dart/detailLiving.dart';
+import 'package:comfacundi_app/Views/UIs/living/DetailLiving/detailLiving.dart';
 import 'package:comfacundi_app/Views/UIs/living/ListOptionLiving.dart';
+import 'package:comfacundi_app/Views/UIs/living/ListOptionLiving2/ListOptionLiving2.dart';
 import 'package:comfacundi_app/Views/UIs/subsidy/DetailSubsidy/DetailSubsidy.dart';
 import 'package:comfacundi_app/Views/UIs/subsidy/ListOptionSubsidy.dart';
 import 'package:comfacundi_app/Views/UIs/subsidy/ListOptionSubsidy2/ListOptionSubsidy2.dart';
@@ -77,9 +78,13 @@ class Router {
       //end Agreements Routes
 
       //Agreements Routes
+
       case '/living':
         return myAnimation(
             page: ListOptionLivingPage(settings: settings.arguments));
+      case '/listOptionLiving2':
+        return myAnimation(
+            page: ListOptionLiving2Page(settings: settings.arguments));
       case '/detailLiving':
         return myAnimation(page: DetailLiving(settings: settings.arguments));
       //end Agreements Routes

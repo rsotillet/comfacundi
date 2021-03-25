@@ -1,19 +1,81 @@
 {
-    "items": [
+  "items": [
+    {
+      "title": "Subsidio de vivienda",
+      "children1": [
         {
-            "title": "Proyectos",
-            "children": [
+          "title": "Subsidio de vivienda",
+          "subtitle": "¡EL MEJOR SUBSIDIO PARA UN NUEVO HOGAR!",
+          "icon": "assets/svg/s_casa.svg",
+          "tag": "s_casa",
+          "url": "",
+          "withBg": false,
+          "detail": "Es un recurso ECONÓMICO, que se otorga una sola vez a los afiliados, el cual se constituye en un APORTE complementario a los recursos del hogar para facilitar la adquisición, construcción o mejora de una solución de vivienda.",
+          "children": [
+            {
+              "title": "REQUISITOS COMPRA DE VIVIENDA NUEVA",
+              "child": [
                 {
-                    "title": "¡Un lugar ideal para VIVIR!",
-                    "subtitle": "FONTIBÓN LARES II",
-                    "description": "Proyecto de vivienda de interés social",
-                    "direction": "Bogotá - CARRERA 113 #19A 11",
-                    "price": "Desde $141.988.000",
-                    "url": "https://www.comfacundi.com.co/proyectos-de-vivienda/",
-                    "txtButton": "Más Información",
-                    "img": "assets/svg/edificios.svg"
+                  "title": "REQUISITOS COMPRA DE VIVIENDA NUEVA",
+                  "subtitle": "¡REQUISITOS COMPRA DE VIVIENDA NUEVA!",
+                  "withBg": true,
+                  "detail2": "",
+                  "url": "https://www.comfacundi.com.co/vivienda/#requisitos",
+                  "imgs": [],
+                  "detail": "• Ser afiliado activo a Comfacundi.\n\n• Tener un hogar comformado por una o más personas que integren el mismo núcleo familiar, los cónyuges, las uniones maritales de hecho, incluyendo las parejas del mismo sexo, y/o el grupo de personas unidas por vínculo de parentesco hasta tercer grado de consanguinidad, segundo de afinidad y primero civil, que compartan un mismo espacio habitacional.\n\n• Recibir ingresos iguales o menores a cuatro salarios mínimos legales mensuales vigentes ($ 3,634,104).\n\n• No ser propietarios ni poseedores de vivienda, excepto para mejoramiento de vivienda.\n\n• Acreditar un ahorro del 10% que sumado a los recursos complementarios (crédito) y el valor del subsidio, sean suficientes para acceder a la solución de vivienda.\n\n• Que el grupo familiar no haya sido beneficiario de Subsidio Familiar de Vivienda.\n\n• Adquirir vivienda nueva dentro de los planes elegibles, conforme con los requisitos y procedimientos establecidos en la reglamentación vigente.\n\n• Se aclara que para efectos de la calificación se tendrá en cuenta únicamente el ahorro previo demostrado al momento",
+                  "table2": [
+                    {
+                      "title": "APERTURA DE POSTULACIONES",
+                      "details": ["2 ENE", "1 ABR", "1 JUL", "1 OCT"]
+                    },
+                    {
+                      "title": "CORTE DE POSTULACIONES",
+                      "details": ["15 MAR", "15 JUN", "15 SEP", "15 DIC"]
+                    },
+                    {
+                      "title": "FECHA DE ASIGNACIONES",
+                      "details": ["30 MAR", "30 JUN", "30 SEP", "30 DIC"]
+                    }
+                  ],
+                  "table1": []
                 }
-            ]
+              ]
+            },
+            {
+              "title": "SUBSIDIO PARA COMPRA DE VIVIENDA NUEVA",
+              "child": [
+                {
+                  "title": "SUBSIDIO PARA COMPRA DE VIVIENDA NUEVA",
+                  "subtitle": "¡SUBSIDIO PARA COMPRA VIVIENDA NUEVA!",
+                  "withBg": true,
+                  "detail2": "",
+                  "url": "-",
+                  "table2": [],
+                  "imgs": [],
+                  "table1": [],
+                  "detail": "VIVIENDA NUEVA\n\nEs la modalidad mediante la cual el beneficiario del subsidio adquiere su solución de vivienda nueva dentro de los planes elegibles, conforme con los requisitos y procedimientos establecidos en la reglamentación vigente.\n\n\nVALORES DEL SUBSIDIO\n\nEl monto del Subsidio de Vivienda se  determina conforme al nivel de ingresos familiares del hogar postulante para el caso de Compra de Vivienda Nueva. "
+                }
+              ]
+            },
+            {
+              "title": "SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO",
+              "child": [
+                {
+                  "title": "SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO",
+                  "subtitle": "¡SUBSIDIO PARA CONSTRUCCIÓN EN SITIO PROPIO O MEJORAMIENTO!",
+                  "withBg": true,
+                  "detail2": "",
+                  "table2": [],
+                  "imgs": [],
+                  "table1": [],
+                  "detail": "El Subsidio Familiar de Vivienda en la modalidad de construcción en Lote Propio o Mejoramiento, se tramita a través de entidades oferentes (Constructores), quienes serán los responsables de la formulación del proyecto (elegibilidad), verificación de requisitos, trámite del Subsidio, cumplimiento de aspectos técnicos, legales y financieros, trámite de la licencia de construcción ante el ente encargado, ejecución de las obras de construcción o mejoramiento de la vivienda y de la presentación de su postulación ante COMFACUNDI.\n\nMejoramiento de Vivienda: Modalidad de subsidio con la cual se puede mejorar la carencias de la vivienda que se habita con su grupo familiar. Se puede hacer las mejoras en aspectos como: estructuras, cimientos, muros, cubiertas, ausencia o deficiencia de redes internas eléctricas y/o hidráulicas.",
+                  "url": "https://www.comfacundi.com.co/vivienda/#ensitio"
+                }
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

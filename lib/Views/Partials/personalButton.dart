@@ -16,9 +16,8 @@ class PersonalButton extends StatelessWidget {
       : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return FlatButton(
+    return TextButton(
         onPressed: onPressed,
-        padding: EdgeInsets.zero,
         child: Hero(
           tag: tag,
           child: Stack(

@@ -4,12 +4,12 @@ import 'package:comfacundi_app/Views/Partials/comfacundiBase.dart';
 import 'package:comfacundi_app/Views/Partials/launchButton.dart';
 import 'package:flutter/material.dart';
 
-import 'DetailSubsidySettings.dart';
+import 'detailLivingSettings.dart';
 
-class DetailSubsidy extends StatelessWidget {
-  final DetailSubsidySettings settings;
+class DetailLiving extends StatelessWidget {
+  final DetailLivingSettings settings;
 
-  const DetailSubsidy({Key key, @required this.settings}) : super(key: key);
+  const DetailLiving({Key key, @required this.settings}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

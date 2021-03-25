@@ -5,7 +5,7 @@ class Subsidy {
 
   Subsidy.fromJson(Map<String, dynamic> json) {
     if (json['items'] != null) {
-      items = new List<Items>();
+      items = [];
       json['items'].forEach((v) {
         items.add(new Items.fromJson(v));
       });
@@ -50,7 +50,7 @@ class Items {
     tag = json['tag'];
     url = json['url'];
     if (json['children'] != null) {
-      children = new List<Children>();
+      children = [];
       json['children'].forEach((v) {
         children.add(new Children.fromJson(v));
       });
@@ -82,7 +82,7 @@ class Children {
   Children.fromJson(Map<String, dynamic> json) {
     title = json['title'];
     if (json['child'] != null) {
-      child = new List<Child>();
+      child = [];
       json['child'].forEach((v) {
         child.add(new Child.fromJson(v));
       });
@@ -130,13 +130,13 @@ class Child {
     url = json['url'];
     imgs = json['imgs'].cast<String>();
     if (json['table1'] != null) {
-      table1 = new List<Table1>();
+      table1 = [];
       json['table1'].forEach((v) {
         table1.add(new Table1.fromJson(v));
       });
     }
     if (json['table2'] != null) {
-      table2 = new List<Table2>();
+      table2 = [];
       json['table2'].forEach((v) {
         table2.add(new Table2.fromJson(v));
       });

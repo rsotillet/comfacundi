@@ -48,56 +48,56 @@ class ContactUs extends StatelessWidget {
                     )
                   ],
                 ),
-                ExpansionTile(
-                  title: Text(
-                    'EPS'.toUpperCase(),
-                    style: TextStyle(
-                      color: Theme.of(context).primaryColorDark,
-                    ),
-                  ),
-                  children: <Widget>[
-                    ExpansionTile(
-                      title: Text(
-                        'Régimen Subsidiado'.toUpperCase(),
-                        style: TextStyle(
-                            color: Theme.of(context).primaryColorDark,
-                            fontStyle: FontStyle.italic),
-                      ),
-                      children: <Widget>[
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.end,
-                          children: <Widget>[
-                            LaunchButton(
-                              url:
-                                  'https://www.comfacundi.com.co/contactenos-regimen-subsidiado/',
-                              text: 'Contáctenos',
-                            ),
-                          ],
-                        )
-                      ],
-                    ),
-                    ExpansionTile(
-                      title: Text(
-                        'Régimen Contributivo'.toUpperCase(),
-                        style: TextStyle(
-                            color: Theme.of(context).primaryColorDark,
-                            fontStyle: FontStyle.italic),
-                      ),
-                      children: <Widget>[
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.end,
-                          children: <Widget>[
-                            LaunchButton(
-                              url:
-                                  'https://www.comfacundi.com.co/contactenos-regimen-contributivo/',
-                              text: 'Contáctenos',
-                            ),
-                          ],
-                        )
-                      ],
-                    )
-                  ],
-                )
+                //   ExpansionTile(
+                //     title: Text(
+                //       'EPS'.toUpperCase(),
+                //       style: TextStyle(
+                //         color: Theme.of(context).primaryColorDark,
+                //       ),
+                //     ),
+                //     children: <Widget>[
+                //       ExpansionTile(
+                //         title: Text(
+                //           'Régimen Subsidiado'.toUpperCase(),
+                //           style: TextStyle(
+                //               color: Theme.of(context).primaryColorDark,
+                //               fontStyle: FontStyle.italic),
+                //         ),
+                //         children: <Widget>[
+                //           Row(
+                //             mainAxisAlignment: MainAxisAlignment.end,
+                //             children: <Widget>[
+                //               LaunchButton(
+                //                 url:
+                //                     'https://www.comfacundi.com.co/contactenos-regimen-subsidiado/',
+                //                 text: 'Contáctenos',
+                //               ),
+                //             ],
+                //           )
+                //         ],
+                //       ),
+                //       ExpansionTile(
+                //         title: Text(
+                //           'Régimen Contributivo'.toUpperCase(),
+                //           style: TextStyle(
+                //               color: Theme.of(context).primaryColorDark,
+                //               fontStyle: FontStyle.italic),
+                //         ),
+                //         children: <Widget>[
+                //           Row(
+                //             mainAxisAlignment: MainAxisAlignment.end,
+                //             children: <Widget>[
+                //               LaunchButton(
+                //                 url:
+                //                     'https://www.comfacundi.com.co/contactenos-regimen-contributivo/',
+                //                 text: 'Contáctenos',
+                //               ),
+                //             ],
+                //           )
+                //         ],
+                //       )
+                //     ],
+                //   )
               ],
             ),
             decoration: BoxDecoration(

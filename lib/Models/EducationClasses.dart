@@ -5,7 +5,7 @@ class Education {
 
   Education.fromJson(Map<String, dynamic> json) {
     if (json['items'] != null) {
-      items = new List<Items>();
+      items = [];
       json['items'].forEach((v) {
         items.add(new Items.fromJson(v));
       });
@@ -36,7 +36,7 @@ class Items {
     icon = json['icon'];
     tag = json['tag'];
     if (json['children'] != null) {
-      children = new List<Children>();
+      children = [];
       json['children'].forEach((v) {
         children.add(new Children.fromJson(v));
       });
@@ -65,7 +65,7 @@ class Children {
   Children.fromJson(Map<String, dynamic> json) {
     title = json['title'];
     if (json['child'] != null) {
-      child = new List<Child>();
+      child = [];
       json['child'].forEach((v) {
         child.add(new Child.fromJson(v));
       });
@@ -91,7 +91,7 @@ class Child {
   Child.fromJson(Map<String, dynamic> json) {
     title = json['title'];
     if (json['item'] != null) {
-      item = new List<Item>();
+      item = [];
       json['item'].forEach((v) {
         item.add(new Item.fromJson(v));
       });
@@ -131,7 +131,7 @@ class Item {
     url = json['url'];
     extraimg = json['extraimg'];
     if (json['imgs'] != null) {
-      imgs = new List<Imgs>();
+      imgs = [];
       json['imgs'].forEach((v) {
         imgs.add(new Imgs.fromJson(v));
       });

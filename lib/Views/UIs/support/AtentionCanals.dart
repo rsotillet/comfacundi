@@ -49,7 +49,7 @@ class AtentionCanals extends StatelessWidget {
                                 children: <Widget>[
                                   _Info(
                                     icon: Icons.phone_in_talk,
-                                    text: '482 3473 / 018000 945754',
+                                    text: '379 0909',
                                   ),
                                   _Info(
                                     icon: Icons.mail,
@@ -72,40 +72,6 @@ class AtentionCanals extends StatelessWidget {
                         color: Theme.of(context).primaryColorDark,
                       ),
                     ),
-                    Expanded(
-                      child: Container(
-                        child: Column(
-                          children: <Widget>[
-                            Text(
-                              'ATENCIÓN AL USUARIO EPS:',
-                              style: TextStyle(
-                                  fontWeight: FontWeight.bold,
-                                  color: Theme.of(context).primaryColorDark),
-                            ),
-                            Expanded(
-                              child: Column(
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: <Widget>[
-                                  _Info(
-                                    icon: Icons.phone_in_talk,
-                                    text: '482 3473 / 018000 945754 ',
-                                  ),
-                                  _Info(
-                                    icon: Icons.mail,
-                                    text:
-                                        'atencionalusuarioepss@comfacundi.com.co',
-                                  ),
-                                  _Info(
-                                    icon: Icons.location_on,
-                                    text: 'Calle 35 # 17 -39 ',
-                                  ),
-                                ],
-                              ),
-                            ),
-                          ],
-                        ),
-                      ),
-                    ),
                   ],
                 ),
               )),
@@ -115,8 +81,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url = 'https://www.comfacundi.com.co/chat.html';
                         if (await canLaunch(url)) {
@@ -138,8 +103,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url = 'https://www.facebook.com/comfacundi';
                         if (await canLaunch(url)) {
@@ -161,10 +125,9 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
-                        String url = 'https://twitter.com/COMFACUNDI';
+                        String url = 'https://twitter.com/comfacundi';
                         if (await canLaunch(url)) {
                           await launch(url);
                         } else {
@@ -184,8 +147,7 @@ class AtentionCanals extends StatelessWidget {
                   Container(
                     width: 50,
                     height: 50,
-                    child: FlatButton(
-                      padding: EdgeInsets.zero,
+                    child: TextButton(
                       onPressed: () async {
                         String url =
                             'https://www.instagram.com/comfacundioficial/';
